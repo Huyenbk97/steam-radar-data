@@ -1,2362 +1,2401 @@
 {
- "updated": "2026-10-21",
- "games": [
-  {
-   "id": "witcher4",
-   "t": "The Witcher 4",
-   "g": "RPG",
-   "dev": "CD Projekt Red",
-   "pub": "CD Projekt",
-   "rel": "Chưa công bố",
-   "date": "Chưa công bố",
-   "days": 430,
-   "exact": false,
-   "tba": true,
-   "ea": false,
-   "aaa": true,
-   "price": 0,
-   "disc": 0,
-   "old": null,
-   "free": false,
-   "critic": null,
-   "meta": null,
-   "steam": null,
-   "rc": null,
-   "hltb": 70,
-   "desc": "Ciri bước vào hành trình mới trong vai một witcher: săn quái vật theo hợp đồng và đưa ra những lựa chọn đầy hệ quả trong một thế giới mở rộng lớn.",
-   "sum": "RPG thế giới mở kể chuyện Ciri làm witcher. Core loop: nhận hợp đồng săn quái, điều tra, chọn hội thoại có hệ quả, chế thuốc và dầu kiếm trước mỗi trận. Chạy trên Unreal Engine 5.",
-   "pros": [
-    "Chiều sâu cốt truyện và lựa chọn",
-    "Thế giới mở dày đặc"
-   ],
-   "cons": [
-    "Chưa có gameplay dài",
-    "Yêu cầu máy mạnh"
-   ],
-   "tags": [
-    "Nhập vai",
-    "Thế giới mở",
-    "Cốt truyện hay",
-    "Lựa chọn quan trọng",
-    "Giả tưởng"
-   ],
-   "viet": {
-    "has": false,
-    "score": 95,
-    "engine": "Unreal 5",
-    "note": "Rất nhiều chữ, cốt truyện nặng — ưu tiên cao nếu không có tiếng Việt chính thức."
-   },
-   "news": []
-  },
-  {
-   "id": "fable",
-   "t": "Fable",
-   "g": "RPG",
-   "dev": "Playground Games",
-   "pub": "Xbox Game Studios",
-   "rel": "23 Thg02, 2027",
-   "date": "23 Thg02, 2027",
-   "days": 125,
-   "exact": true,
-   "tba": false,
-   "ea": false,
-   "aaa": true,
-   "price": 0,
-   "disc": 0,
-   "old": null,
-   "free": false,
-   "critic": null,
-   "meta": null,
-   "steam": null,
-   "rc": null,
-   "hltb": 35,
-   "desc": "Fable trở lại xứ Albion với một cuộc phiêu lưu nhập vai mới, nơi mỗi lựa chọn tốt hay xấu đều thay đổi cách thế giới nhìn bạn.",
-   "sum": "Reboot dòng Fable: RPG hành động phiêu lưu xứ Albion với chất hài hước Anh quốc. Core loop: nhận nhiệm vụ, chiến đấu phối hợp cận chiến, bắn xa và phép, cùng hệ thống lựa chọn thiện/ác vốn là đặc trưng của series.",
-   "pros": [
-    "Thế giới cổ tích đặc trưng",
-    "Chiến đấu linh hoạt"
-   ],
-   "cons": [
-    "Chín năm phát triển, kỳ vọng rất cao"
-   ],
-   "tags": [
-    "Nhập vai hành động",
-    "Giả tưởng",
-    "Thế giới mở",
-    "Hài hước"
-   ],
-   "viet": {
-    "has": false,
-    "score": 80,
-    "engine": "ForzaTech",
-    "note": "Nhiều thoại hài hước, khó dịch cho đúng chất."
-   },
-   "news": []
-  },
-  {
-   "id": "p4r",
-   "t": "Persona 4 Revival",
-   "g": "RPG",
-   "dev": "Atlus",
-   "pub": "Atlus / Sega",
-   "rel": "18 Thg02, 2027",
-   "date": "18 Thg02, 2027",
-   "days": 120,
-   "exact": true,
-   "tba": false,
-   "ea": false,
-   "aaa": true,
-   "price": 0,
-   "disc": 0,
-   "old": null,
-   "free": false,
-   "critic": null,
-   "meta": null,
-   "steam": null,
-   "rc": null,
-   "hltb": 80,
-   "desc": "Làm lại Persona 4: nhóm học sinh ở thị trấn Inaba lao vào thế giới bên trong TV để phá giải chuỗi án mạng bí ẩn.",
-   "sum": "Làm lại JRPG trinh thám kinh điển. Core loop: ban ngày đi học và gắn kết Social Link, ban đêm vào mê cung trong TV đánh theo lượt. Quản lý lịch là trục chính.",
-   "pros": [
-    "Dàn nhân vật được yêu thích",
-    "Nhạc và phong cách nổi bật"
-   ],
-   "cons": [
-    "Nhịp chậm lúc đầu"
-   ],
-   "tags": [
-    "JRPG",
-    "Theo lượt",
-    "Anime",
-    "Trinh thám"
-   ],
-   "viet": {
-    "has": false,
-    "score": 90,
-    "engine": "khác",
-    "note": "JRPG = khối lượng chữ khổng lồ, cộng đồng Việt hoá rất quan tâm."
-   },
-   "news": []
-  },
-  {
-   "id": "ff7r",
-   "t": "Final Fantasy VII: Revelation",
-   "g": "RPG",
-   "dev": "Square Enix",
-   "pub": "Square Enix",
-   "rel": "8 Thg04, 2027",
-   "date": "8 Thg04, 2027",
-   "days": 169,
-   "exact": true,
-   "tba": false,
-   "ea": false,
-   "aaa": true,
-   "price": 0,
-   "disc": 0,
-   "old": null,
-   "free": false,
-   "critic": null,
-   "meta": null,
-   "steam": null,
-   "rc": null,
-   "hltb": 60,
-   "desc": "Chương cuối của bộ ba Final Fantasy VII Remake, khép lại hành trình của Cloud và đồng đội.",
-   "sum": "Chương kết bộ remake FF7. Core loop: chiến đấu action-ATB lai, chuyển đổi nhân vật, dùng Materia để tùy biến phép và kỹ năng.",
-   "pros": [
-    "Chiến đấu đã tay",
-    "Sản xuất hoành tráng"
-   ],
-   "cons": [
-    "Cần chơi phần trước để hiểu"
-   ],
-   "tags": [
-    "JRPG",
-    "Hành động",
-    "Cốt truyện hay",
-    "Khoa học viễn tưởng"
-   ],
-   "viet": {
-    "has": false,
-    "score": 85,
-    "engine": "Unreal",
-    "note": "Nhiều cutscene và thoại."
-   },
-   "news": []
-  },
-  {
-   "id": "sth",
-   "t": "Stranger Than Heaven",
-   "g": "Hành động",
-   "dev": "RGG Studio",
-   "pub": "Sega",
-   "rel": "15 Thg01, 2027",
-   "date": "15 Thg01, 2027",
-   "days": 86,
-   "exact": true,
-   "tba": false,
-   "ea": false,
-   "aaa": true,
-   "price": 0,
-   "disc": 0,
-   "old": null,
-   "free": false,
-   "critic": null,
-   "meta": null,
-   "steam": null,
-   "rc": null,
-   "hltb": 30,
-   "desc": "Tựa hành động phiêu lưu mới của RGG Studio, đội đứng sau dòng Yakuza / Like a Dragon.",
-   "sum": "Game mới của RGG Studio. Dự kiến theo công thức quen thuộc của studio: khám phá khu phố chi tiết, đánh tay đôi và rất nhiều nhiệm vụ phụ.",
-   "pros": [
-    "Studio kể chuyện có tay nghề",
-    "Thế giới chi tiết đặc trưng RGG"
-   ],
-   "cons": [
-    "Chưa công bố nhiều gameplay"
-   ],
-   "tags": [
-    "Hành động",
-    "Phiêu lưu",
-    "Cốt truyện hay",
-    "Tội phạm"
-   ],
-   "viet": {
-    "has": false,
-    "score": 86,
-    "engine": "chưa rõ",
-    "note": "Game của RGG thường rất nhiều thoại — khối lượng dịch lớn."
-   },
-   "news": []
-  },
-  {
-   "id": "tomb",
-   "t": "Tomb Raider: Legacy of Atlantis",
-   "g": "Hành động",
-   "dev": "Crystal Dynamics, Flying Wild Hog",
-   "pub": "Crystal Dynamics",
-   "rel": "12 Thg02, 2027",
-   "date": "12 Thg02, 2027",
-   "days": 114,
-   "exact": true,
-   "tba": false,
-   "ea": false,
-   "aaa": true,
-   "price": 0,
-   "disc": 0,
-   "old": null,
-   "free": false,
-   "critic": null,
-   "meta": null,
-   "steam": null,
-   "rc": null,
-   "hltb": 22,
-   "desc": "Lara Croft trở lại với những hầm mộ cổ, câu đố môi trường và hành trình đi tìm bí mật của Atlantis.",
-   "sum": "Lara Croft trở lại với phiêu lưu giải đố hầm mộ. Core loop: leo trèo, giải đố môi trường, bắn súng và sinh tồn trong các khu di tích.",
-   "pros": [
-    "Giải đố và khám phá chắc tay",
-    "Lara được yêu thích"
-   ],
-   "cons": [
-    "Công thức quen thuộc"
-   ],
-   "tags": [
-    "Hành động phiêu lưu",
-    "Giải đố",
-    "Khám phá"
-   ],
-   "viet": {
-    "has": false,
-    "score": 78,
-    "engine": "chưa rõ",
-    "note": "Vừa phải, nhiều hướng dẫn và ghi chép."
-   },
-   "news": []
-  },
-  {
-   "id": "metro",
-   "t": "Metro 2039",
-   "g": "Hành động",
-   "dev": "4A Games",
-   "pub": "Deep Silver",
-   "rel": "4 Thg02, 2027",
-   "date": "4 Thg02, 2027",
-   "days": 106,
-   "exact": true,
-   "tba": false,
-   "ea": false,
-   "aaa": true,
-   "price": 0,
-   "disc": 0,
-   "old": null,
-   "free": false,
-   "critic": null,
-   "meta": null,
-   "steam": null,
-   "rc": null,
-   "hltb": 18,
-   "desc": "Phần mới của loạt Metro: bắn súng sinh tồn trong thế giới hậu tận thế ngột ngạt.",
-   "sum": "FPS sinh tồn hậu tận thế. Core loop: lén lút, quản lý đạn và mặt nạ phòng độc, bắn súng căng thẳng theo tuyến.",
-   "pros": [
-    "Không khí ngột ngạt đặc trưng",
-    "Kể chuyện tốt"
-   ],
-   "cons": [
-    "Tuyến tính"
-   ],
-   "tags": [
-    "FPS",
-    "Sinh tồn",
-    "Hậu tận thế",
-    "Không khí"
-   ],
-   "viet": {
-    "has": false,
-    "score": 80,
-    "engine": "4A Engine",
-    "note": "Thoại và ghi chú môi trường nhiều."
-   },
-   "news": []
-  },
-  {
-   "id": "expanse",
-   "t": "The Expanse: Osiris Reborn",
-   "g": "Hành động",
-   "dev": "Owlcat Games",
-   "pub": "Owlcat Games",
-   "rel": "Q2 2027",
-   "date": "Q2 2027",
-   "days": 255,
-   "exact": false,
-   "tba": false,
-   "ea": false,
-   "aaa": false,
-   "price": 0,
-   "disc": 0,
-   "old": null,
-   "free": false,
-   "critic": null,
-   "meta": null,
-   "steam": null,
-   "rc": null,
-   "hltb": 30,
-   "desc": "Nhập vai hành động trong vũ trụ The Expanse, do Owlcat Games phát triển.",
-   "sum": "Nhập vai hành động khoa học viễn tưởng. Dự kiến: bắn súng góc nhìn thứ ba, đội đồng hành và lựa chọn hội thoại.",
-   "pros": [
-    "Vũ trụ The Expanse giàu chất liệu",
-    "Owlcat mạnh về RPG nhiều lựa chọn"
-   ],
-   "cons": [
-    "Chưa có ngày phát hành chính thức"
-   ],
-   "tags": [
-    "Nhập vai hành động",
-    "Khoa học viễn tưởng",
-    "Bắn súng góc nhìn thứ ba"
-   ],
-   "viet": {
-    "has": false,
-    "score": 84,
-    "engine": "chưa rõ",
-    "note": "Owlcat nổi tiếng game nhiều chữ — đáng theo dõi để Việt hoá."
-   },
-   "news": []
-  },
-  {
-   "id": "re9",
-   "t": "Resident Evil: Veronica",
-   "g": "Kinh dị",
-   "dev": "Capcom",
-   "pub": "Capcom",
-   "rel": "2027",
-   "date": "2027",
-   "days": 300,
-   "exact": false,
-   "tba": false,
-   "ea": false,
-   "aaa": true,
-   "price": 0,
-   "disc": 0,
-   "old": null,
-   "free": false,
-   "critic": null,
-   "meta": null,
-   "steam": null,
-   "rc": null,
-   "hltb": 14,
-   "desc": "Tựa Resident Evil mới của Capcom: kinh dị sinh tồn với tài nguyên khan hiếm và những câu đố mở đường.",
-   "sum": "Kinh dị sinh tồn đặc trưng Capcom. Core loop: quản lý tài nguyên khan hiếm, giải đố mở khoá khu vực, sống sót trước kẻ thù.",
-   "pros": [
-    "Thương hiệu kinh dị hàng đầu",
-    "RE Engine đẹp"
-   ],
-   "cons": [
-    "Hù doạ có thể kén người chơi"
-   ],
-   "tags": [
-    "Kinh dị",
-    "Sinh tồn",
-    "Góc nhìn thứ ba"
-   ],
-   "viet": {
-    "has": false,
-    "score": 76,
-    "engine": "RE Engine",
-    "note": "Chữ vừa phải, chủ yếu ghi chú và hội thoại."
-   },
-   "news": []
-  },
-  {
-   "id": "inzoi",
-   "t": "inZOI",
-   "g": "Mô phỏng",
-   "dev": "inZOI Studio",
-   "pub": "Krafton",
-   "rel": "Early Access",
-   "date": "28 Thg03, 2025",
-   "days": 0,
-   "exact": false,
-   "tba": false,
-   "ea": true,
-   "aaa": false,
-   "price": 690000,
-   "disc": 20,
-   "old": 860000,
-   "free": false,
-   "critic": 82,
-   "meta": 80,
-   "steam": 78,
-   "rc": 41000,
-   "hltb": 40,
-   "desc": "Mô phỏng cuộc sống đồ hoạ thực: tạo Zoi, xây nhà, theo đuổi sự nghiệp và quan sát cả thành phố vận hành.",
-   "sum": "Mô phỏng cuộc sống đồ hoạ thực. Core loop: tạo nhân vật, xây nhà, quản lý nhu cầu và sự nghiệp, điều khiển cả thành phố.",
-   "pros": [
-    "Đồ hoạ cực thực",
-    "Tùy biến sâu"
-   ],
-   "cons": [
-    "Còn Early Access, cần tối ưu"
-   ],
-   "tags": [
-    "Mô phỏng đời sống",
-    "Sandbox",
-    "Tùy biến nhân vật",
-    "Early Access"
-   ],
-   "viet": {
-    "has": false,
-    "score": 72,
-    "engine": "Unreal 5",
-    "note": "Chưa có tiếng Việt; giao diện và mô tả vật phẩm nhiều."
-   },
-   "news": []
-  },
-  {
-   "id": "enshroud",
-   "t": "Enshrouded",
-   "g": "Mô phỏng",
-   "dev": "Keen Games",
-   "pub": "Keen Games",
-   "rel": "Early Access",
-   "date": "24 Thg01, 2024",
-   "days": 0,
-   "exact": false,
-   "tba": false,
-   "ea": true,
-   "aaa": false,
-   "price": 520000,
-   "disc": 33,
-   "old": 780000,
-   "free": false,
-   "critic": 84,
-   "meta": 83,
-   "steam": 91,
-   "rc": 112000,
-   "hltb": 60,
-   "desc": "Sinh tồn, chế tạo và nhập vai co-op tới 16 người trong một thế giới voxel bị màn sương Shroud bao phủ.",
-   "sum": "Sinh tồn - xây dựng - nhập vai thế giới voxel. Core loop: khai thác, xây căn cứ tự do, chế đồ, đánh boss để mở khu vực mới.",
-   "pros": [
-    "Xây dựng tự do, tối ưu tốt",
-    "Co-op mượt"
-   ],
-   "cons": [
-    "Nội dung cuối game còn mỏng"
-   ],
-   "tags": [
-    "Sinh tồn",
-    "Xây căn cứ",
-    "Co-op",
-    "Early Access"
-   ],
-   "viet": {
-    "has": false,
-    "score": 68,
-    "engine": "khác",
-    "note": "Giao diện và mô tả vật phẩm nhiều."
-   },
-   "news": []
-  },
-  {
-   "id": "melvor",
-   "t": "Melvor Idle",
-   "g": "Idle",
-   "dev": "Games by Malcs",
-   "pub": "Jagex",
-   "rel": "Đã phát hành",
-   "date": "18 Thg11, 2021",
-   "days": 0,
-   "exact": false,
-   "tba": false,
-   "ea": false,
-   "aaa": false,
-   "price": 220000,
-   "disc": 40,
-   "old": 370000,
-   "free": false,
-   "critic": null,
-   "meta": null,
-   "steam": 95,
-   "rc": 21000,
-   "hltb": 600,
-   "desc": "Idle RPG lấy cảm hứng từ RuneScape: luyện hàng chục kỹ năng, chiến đấu, săn boss và tối ưu build để chạy nền.",
-   "sum": "Idle RPG lấy cảm hứng RuneScape. Core loop: chọn kỹ năng (câu cá, rèn, chiến đấu) rồi để chạy nền, nâng cấp dần, tối ưu build dài hạn.",
-   "pros": [
-    "Gây nghiện, chơi nền nhẹ",
-    "Nội dung khổng lồ"
-   ],
-   "cons": [
-    "Đồ hoạ tối giản"
-   ],
-   "tags": [
-    "Idle",
-    "Incremental",
-    "Nhập vai"
-   ],
-   "viet": {
-    "has": false,
-    "score": 60,
-    "engine": "Web/JS",
-    "note": "Nhiều text nhưng lặp theo mẫu — dễ dùng glossary."
-   },
-   "news": []
-  },
-  {
-   "id": "ngu",
-   "t": "NGU IDLE",
-   "g": "Idle",
-   "dev": "4G Games",
-   "pub": "4G Games",
-   "rel": "Đã phát hành",
-   "date": "1 Thg10, 2019",
-   "days": 0,
-   "exact": false,
-   "tba": false,
-   "ea": false,
-   "aaa": false,
-   "price": 0,
-   "disc": 0,
-   "old": null,
-   "free": true,
-   "critic": null,
-   "meta": null,
-   "steam": 95,
-   "rc": 10929,
-   "hltb": 400,
-   "desc": "Game idle hài hước với nhiều lớp cơ chế chồng lên nhau: đánh quái, phân bổ năng lượng và phép thuật để ngày càng mạnh.",
-   "sum": "Incremental hài hước, miễn phí. Core loop: đánh quái nhận vàng, phân bổ năng lượng/ma thuật vào các mục nâng cấp, mở tính năng mới liên tục.",
-   "pros": [
-    "Miễn phí, cực sâu",
-    "Hài hước"
-   ],
-   "cons": [
-    "UI cũ, hơi rối"
-   ],
-   "tags": [
-    "Incremental",
-    "Miễn phí",
-    "Clicker",
-    "Hài hước"
-   ],
-   "viet": {
-    "has": false,
-    "score": 55,
-    "engine": "Unity",
-    "note": "Thuật ngữ game nhiều, cần glossary chuẩn."
-   },
-   "news": []
-  },
-  {
-   "id": "leaf",
-   "t": "Leaf Blower Revolution",
-   "g": "Idle",
-   "dev": "Sandfish",
-   "pub": "Sandfish",
-   "rel": "Đã phát hành",
-   "date": "4 Thg12, 2020",
-   "days": 0,
-   "exact": false,
-   "tba": false,
-   "ea": false,
-   "aaa": false,
-   "price": 160000,
-   "disc": 50,
-   "old": 320000,
-   "free": false,
-   "critic": null,
-   "meta": null,
-   "steam": 94,
-   "rc": 34000,
-   "hltb": 300,
-   "desc": "Thổi lá, kiếm tiền, nâng cấp máy thổi và mở dần những vùng đất ngày càng kỳ quặc.",
-   "sum": "Idle thổi lá gom tiền. Core loop: thổi lá kiếm xu, mua nâng cấp và prestige để nhân mạnh, mở nhiều lớp cơ chế mới.",
-   "pros": [
-    "Dễ vào, khó bỏ",
-    "Giá rẻ, hay giảm sâu"
-   ],
-   "cons": [
-    "Lặp lại nếu cày lâu"
-   ],
-   "tags": [
-    "Idle",
-    "Clicker",
-    "Thư giãn"
-   ],
-   "viet": {
-    "has": false,
-    "score": 50,
-    "engine": "Unity",
-    "note": "Ít chữ, dễ Việt hoá."
-   },
-   "news": []
-  },
-  {
-   "id": "cod-mw4",
-   "t": "Call of Duty: Modern Warfare 4",
-   "g": "Hành động",
-   "dev": "Infinity Ward",
-   "pub": "Activision",
-   "rel": "23 Thg10, 2026",
-   "date": "23 Thg10, 2026",
-   "days": 2,
-   "exact": true,
-   "tba": false,
-   "ea": false,
-   "aaa": true,
-   "price": 0,
-   "disc": 0,
-   "old": null,
-   "free": false,
-   "critic": null,
-   "meta": null,
-   "steam": null,
-   "rc": null,
-   "hltb": 7,
-   "desc": "Phần mới của series bắn súng quân sự Modern Warfare do Infinity Ward phát triển, ra mắt trên PC và console.",
-   "sum": "Chiến dịch đơn kèm đa người chơi và chế độ phụ quy mô lớn, tiếp tục lối chơi bắn súng góc nhìn thứ nhất nhịp độ nhanh của series. Core loop: tham gia trận, bắn hạ đối thủ, nhận kinh nghiệm để mở khoá vũ khí và phụ kiện rồi vào trận tiếp.",
-   "pros": [
-    "Bắn súng mượt, nhịp độ nhanh",
-    "Có chiến dịch đơn và nhiều chế độ online"
-   ],
-   "cons": [
-    "Dễ gặp hack và vấn đề cân bằng",
-    "Dung lượng cài đặt lớn"
-   ],
-   "tags": [
-    "Hành động",
-    "Bắn súng",
-    "FPS",
-    "Nhiều người chơi",
-    "Chiến tranh"
-   ],
-   "viet": {
-    "has": false,
-    "score": 10,
-    "engine": "IW engine (độc quyền)",
-    "note": "Chủ yếu là multiplayer, lượng chữ cốt truyện ít, file mã hoá chống hack nên khó Việt hoá."
-   },
-   "news": []
-  },
-  {
-   "id": "phantom-blade-zero",
-   "t": "Phantom Blade Zero",
-   "g": "Hành động",
-   "dev": "S-GAME",
-   "pub": "S-GAME",
-   "rel": "29 Thg10, 2026",
-   "date": "29 Thg10, 2026",
-   "days": 8,
-   "exact": true,
-   "tba": false,
-   "ea": false,
-   "aaa": true,
-   "price": 0,
-   "disc": 0,
-   "old": null,
-   "free": false,
-   "critic": null,
-   "meta": null,
-   "steam": null,
-   "rc": null,
-   "hltb": 20,
-   "desc": "Game hành động kiếm hiệp chiến đấu nhanh, đậm chất võ hiệp Trung Hoa pha màu sắc kỳ ảo.",
-   "sum": "Nhân vật chính chiến đấu cận chiến kỹ thuật cao với đỡ đòn, né và combo kiếm, có bối cảnh u tối giàu phong cách. Core loop: khám phá khu vực, đánh quái và trùm, nâng cấp chiêu thức rồi tiếp tục đi sâu vào cốt truyện.",
-   "pros": [
-    "Chiến đấu nhanh, đã mắt",
-    "Phong cách nghệ thuật độc đáo"
-   ],
-   "cons": [
-    "Độ khó cao",
-    "Cần cấu hình khá mạnh"
-   ],
-   "tags": [
-    "Hành động",
-    "Kiếm hiệp",
-    "Chặt chém",
-    "Nhập vai hành động",
-    "Một người chơi"
-   ],
-   "viet": {
-    "has": false,
-    "score": 55,
-    "engine": "Unreal Engine",
-    "note": "Game cốt truyện, có thoại và văn bản nhiều vừa phải, cộng đồng Việt quan tâm thể loại võ hiệp."
-   },
-   "news": []
-  },
-  {
-   "id": "attack-on-titan-3",
-   "t": "Attack on Titan 3",
-   "g": "Hành động",
-   "dev": "Omega Force",
-   "pub": "Koei Tecmo",
-   "rel": "10 Thg12, 2026",
-   "date": "10 Thg12, 2026",
-   "days": 50,
-   "exact": true,
-   "tba": false,
-   "ea": false,
-   "aaa": true,
-   "price": 0,
-   "disc": 0,
-   "old": null,
-   "free": false,
-   "critic": null,
-   "meta": null,
-   "steam": null,
-   "rc": null,
-   "hltb": 15,
-   "desc": "Phần tiếp theo của game hành động dựa trên anime Attack on Titan, dùng thiết bị cơ động 3D để săn Titan.",
-   "sum": "Người chơi bay lượn bằng thiết bị cơ động và chém vào điểm yếu của Titan khổng lồ, theo cốt truyện anime. Core loop: nhận nhiệm vụ, di chuyển trên không, hạ Titan, nhận phần thưởng để nâng cấp trang bị và nhân vật.",
-   "pros": [
-    "Cảm giác di chuyển 3D ấn tượng",
-    "Bám sát cốt truyện anime"
-   ],
-   "cons": [
-    "Nhiệm vụ có thể lặp lại",
-    "Phụ thuộc vào IP anime"
-   ],
-   "tags": [
-    "Hành động",
-    "Anime",
-    "Co-op",
-    "Chặt chém",
-    "Nhập vai hành động"
-   ],
-   "viet": {
-    "has": false,
-    "score": 60,
-    "engine": "Chưa rõ",
-    "note": "Nhiều thoại và cốt truyện từ anime, nhóm fan Việt đông nên nhu cầu Việt hoá cao."
-   },
-   "news": []
-  },
-  {
-   "id": "ananta",
-   "t": "Ananta",
-   "g": "Hành động",
-   "dev": "Naked Rain",
-   "pub": "NetEase Games",
-   "rel": "15 Thg01, 2027",
-   "date": "15 Thg01, 2027",
-   "days": 86,
-   "exact": true,
-   "tba": false,
-   "ea": false,
-   "aaa": true,
-   "price": 0,
-   "disc": 0,
-   "old": null,
-   "free": false,
-   "critic": null,
-   "meta": null,
-   "steam": null,
-   "rc": null,
-   "hltb": 40,
-   "desc": "Game thế giới mở đô thị phong cách anime với hành động và khám phá thành phố, có bản PC trên Steam.",
-   "sum": "Người chơi tự do khám phá đô thị rộng lớn, tham gia chiến đấu, nhiệm vụ và hoạt động phụ. Core loop: khám phá thành phố, làm nhiệm vụ và chiến đấu, nhận tài nguyên để phát triển nhân vật.",
-   "pros": [
-    "Thế giới mở đô thị độc đáo",
-    "Đồ hoạ anime hiện đại"
-   ],
-   "cons": [
-    "Có thể có hệ thống gacha và mua trong game",
-    "Cần kết nối online"
-   ],
-   "tags": [
-    "Hành động",
-    "Thế giới mở",
-    "Anime",
-    "Nhập vai",
-    "Free-to-play"
-   ],
-   "viet": {
-    "has": false,
-    "score": 40,
-    "engine": "chưa rõ",
-    "note": "Dịch vụ online có nhiều chữ nhưng cập nhật thường xuyên làm Việt hoá khó duy trì."
-   },
-   "news": []
-  },
-  {
-   "id": "wo-long-2",
-   "t": "Wo Long: Wings of Ember",
-   "g": "Hành động",
-   "dev": "Team NINJA",
-   "pub": "Koei Tecmo",
-   "rel": "4 Thg03, 2027",
-   "date": "4 Thg03, 2027",
-   "days": 134,
-   "exact": true,
-   "tba": false,
-   "ea": false,
-   "aaa": true,
-   "price": 0,
-   "disc": 0,
-   "old": null,
-   "free": false,
-   "critic": null,
-   "meta": null,
-   "steam": null,
-   "rc": null,
-   "hltb": 25,
-   "desc": "Phần tiếp theo của soulslike Wo Long lấy bối cảnh Tam Quốc huyền ảo, ra mắt trên PC Steam.",
-   "sum": "Hệ thống chiến đấu dựa trên đỡ đòn và hồi phục khí lực, kết hợp phép thuật. Core loop: khám phá màn chơi, đánh quái và trùm bằng đỡ đòn, tích luỹ khí thế để mạnh hơn rồi vượt thử thách khó hơn.",
-   "pros": [
-    "Chiến đấu nhịp độ nhanh",
-    "Bối cảnh Tam Quốc quen thuộc"
-   ],
-   "cons": [
-    "Độ khó cao",
-    "Có thể gặp lỗi kỹ thuật ở ngày đầu"
-   ],
-   "tags": [
-    "Hành động",
-    "Soulslike",
-    "Tam Quốc",
-    "Khó",
-    "Một người chơi"
-   ],
-   "viet": {
-    "has": false,
-    "score": 55,
-    "engine": "Chưa rõ",
-    "note": "Cốt truyện Tam Quốc có nhiều văn bản, người Việt quen thuộc bối cảnh nên đáng Việt hoá."
-   },
-   "news": []
-  },
-  {
-   "id": "trine-6",
-   "t": "Trine 6: Together in Time",
-   "g": "Hành động",
-   "dev": "Frozenbyte",
-   "pub": "Cooldown Games",
-   "rel": "4 Thg03, 2027",
-   "date": "4 Thg03, 2027",
-   "days": 134,
-   "exact": true,
-   "tba": false,
-   "ea": false,
-   "aaa": false,
-   "price": 0,
-   "disc": 0,
-   "old": null,
-   "free": false,
-   "critic": null,
-   "meta": null,
-   "steam": null,
-   "rc": null,
-   "hltb": 10,
-   "desc": "Phần mới của series platformer giải đố Trine, hợp tác ba nhân vật trong thế giới cổ tích.",
-   "sum": "Kết hợp nhảy platform, chiến đấu và giải đố vật lý với ba nhân vật có kỹ năng riêng, chơi một mình hoặc co-op. Core loop: đi qua màn chơi, dùng kỹ năng từng nhân vật để giải đố và đánh quái, thu thập vật phẩm để mở thêm kỹ năng.",
-   "pros": [
-    "Đồ hoạ cổ tích đẹp mắt",
-    "Co-op vui nhộn"
-   ],
-   "cons": [
-    "Cốt truyện đơn giản",
-    "Thời lượng ngắn"
-   ],
-   "tags": [
-    "Hành động",
-    "Platformer",
-    "Giải đố",
-    "Co-op",
-    "Cổ tích"
-   ],
-   "viet": {
-    "has": false,
-    "score": 50,
-    "engine": "Chưa rõ",
-    "note": "Lượng chữ vừa phải, thể loại dễ tiếp cận nên Việt hoá khả thi."
-   },
-   "news": []
-  },
-  {
-   "id": "gundam-rogue-orbit",
-   "t": "Gundam Rogue Orbit",
-   "g": "Hành động",
-   "dev": "Bandai Namco Studios",
-   "pub": "Bandai Namco Entertainment",
-   "rel": "5 Thg03, 2027",
-   "date": "5 Thg03, 2027",
-   "days": 135,
-   "exact": true,
-   "tba": false,
-   "ea": false,
-   "aaa": true,
-   "price": 0,
-   "disc": 0,
-   "old": null,
-   "free": false,
-   "critic": null,
-   "meta": null,
-   "steam": null,
-   "rc": null,
-   "hltb": 15,
-   "desc": "Game hành động Gundam mới của Bandai Namco, ra mắt trên PC Steam và console.",
-   "sum": "Điều khiển mobile suit chiến đấu trong không gian và trên mặt đất với nhiều loại vũ khí. Core loop: nhận nhiệm vụ, chiến đấu với đối thủ, thu thập tài nguyên để nâng cấp và tuỳ chỉnh mobile suit.",
-   "pros": [
-    "IP Gundam được yêu thích",
-    "Đồ hoạ mecha ấn tượng"
-   ],
-   "cons": [
-    "Chi tiết gameplay còn ít",
-    "Có thể có DLC nhân vật"
-   ],
-   "tags": [
-    "Hành động",
-    "Mecha",
-    "Gundam",
-    "Anime",
-    "Khoa học viễn tưởng"
-   ],
-   "viet": {
-    "has": false,
-    "score": 45,
-    "engine": "Chưa rõ",
-    "note": "Fan Gundam Việt Nam đông, nhưng lượng chữ chưa rõ."
-   },
-   "news": []
-  },
-  {
-   "id": "squadron-42",
-   "t": "Squadron 42",
-   "g": "Hành động",
-   "dev": "Cloud Imperium Games",
-   "pub": "Cloud Imperium Games",
-   "rel": "Q2 2027",
-   "date": "Q2 2027",
-   "days": 206,
-   "exact": false,
-   "tba": false,
-   "ea": false,
-   "aaa": true,
-   "price": 0,
-   "disc": 0,
-   "old": null,
-   "free": false,
-   "critic": null,
-   "meta": null,
-   "steam": null,
-   "rc": null,
-   "hltb": 20,
-   "desc": "Chiến dịch đơn bắn súng không gian trong vũ trụ Star Citizen với dàn diễn viên Hollywood.",
-   "sum": "Người chơi đóng vai phi công trong hạm đội quân đội UEE, tham gia các nhiệm vụ trên tàu vũ trụ và chiến đấu bộ binh. Core loop: nhận nhiệm vụ, lái tàu hoặc chiến đấu, tương tác với đồng đội để tiến triển cốt truyện.",
-   "pros": [
-    "Quy mô và đồ hoạ đồ sộ",
-    "Dàn diễn viên đình đám"
-   ],
-   "cons": [
-    "Đã trễ hẹn nhiều lần",
-    "Cấu hình đòi hỏi rất cao"
-   ],
-   "tags": [
-    "Hành động",
-    "Bắn súng",
-    "Không gian",
-    "Một người chơi",
-    "Khoa học viễn tưởng"
-   ],
-   "viet": {
-    "has": false,
-    "score": 55,
-    "engine": "Star Engine (CryEngine tuỳ biến)",
-    "note": "Chiến dịch có nhiều thoại và cốt truyện, đáng Việt hoá nếu phát hành đúng hạn."
-   },
-   "news": []
-  },
-  {
-   "id": "godzilla-dam-remastered",
-   "t": "Godzilla: Destroy All Monsters Melee Remastered",
-   "g": "Hành động",
-   "dev": "Pipeworks Studios",
-   "pub": "Atari",
-   "rel": "3 Thg11, 2026",
-   "date": "3 Thg11, 2026",
-   "days": 13,
-   "exact": true,
-   "tba": false,
-   "ea": false,
-   "aaa": false,
-   "price": 0,
-   "disc": 0,
-   "old": null,
-   "free": false,
-   "critic": null,
-   "meta": null,
-   "steam": null,
-   "rc": null,
-   "hltb": 6,
-   "desc": "Bản làm lại của game đối kháng quái vật khổng lồ năm 2002 với Godzilla và nhiều quái vật khác.",
-   "sum": "Người chơi điều khiển quái vật đối đầu trong các thành phố có thể phá huỷ, chiến thắng bằng đòn tấn công đặc trưng. Core loop: chọn quái vật, phá thành phố và đánh bại đối thủ, mở khoá thêm nhân vật và màn chơi.",
-   "pros": [
-    "Hoài niệm cho fan Godzilla",
-    "Chơi nhiều người cùng máy"
-   ],
-   "cons": [
-    "Lối chơi đơn giản",
-    "Chiều sâu hạn chế"
-   ],
-   "tags": [
-    "Hành động",
-    "Đối kháng",
-    "Godzilla",
-    "Quái vật",
-    "Nhiều người chơi"
-   ],
-   "viet": {
-    "has": false,
-    "score": 25,
-    "engine": "Chưa rõ",
-    "note": "Ít chữ, thể loại đối kháng nên nhu cầu Việt hoá thấp."
-   },
-   "news": []
-  },
-  {
-   "id": "death-at-fleming-manor",
-   "t": "Death at Fleming Manor",
-   "g": "Kinh dị",
-   "dev": "SUPERTHUMb",
-   "pub": "Chưa rõ",
-   "rel": "3 Thg11, 2026",
-   "date": "3 Thg11, 2026",
-   "days": 13,
-   "exact": true,
-   "tba": false,
-   "ea": false,
-   "aaa": false,
-   "price": 0,
-   "disc": 0,
-   "old": null,
-   "free": false,
-   "critic": null,
-   "meta": null,
-   "steam": null,
-   "rc": null,
-   "hltb": 12,
-   "desc": "Game điều tra kinh dị đặt ở nước Anh năm 1959, bạn vào vai pháp y đi xác định từng cái chết ở một dinh thự dưỡng bệnh là tai nạn, tự sát hay giết người.",
-   "sum": "Bạn là Edgar Whitmore, pháp y mới nhậm chức, điều tra chuỗi cái chết đáng ngờ tại Fleming Manor. Mỗi vụ bạn phải kết luận và ghi vào giấy chứng tử, game không báo đúng sai và các kết luận quyết định bạn đến một trong bốn cái kết. Core loop: khám hiện trường, thu thập manh mối, giải đố, kết luận nguyên nhân tử vong rồi chuyển sang vụ kế tiếp.",
-   "pros": [
-    "Cơ chế phá án khác lạ, không bị dắt tay",
-    "Bối cảnh Anh 1959 giàu không khí"
-   ],
-   "cons": [
-    "Nhịp chậm, phù hợp người thích suy luận",
-    "Chưa rõ nhà phát hành, studio nhỏ"
-   ],
-   "tags": [
-    "Kinh dị",
-    "Điều tra",
-    "Giải đố",
-    "Cốt truyện",
-    "Không khí"
-   ],
-   "viet": {
-    "has": false,
-    "score": 80,
-    "engine": "chưa rõ",
-    "note": "Rất nhiều hội thoại và hồ sơ cần đọc để suy luận nên chữ nhiều, rất đáng Việt hoá."
-   },
-   "news": []
-  },
-  {
-   "id": "brokenlore-ascend",
-   "t": "BrokenLore: Ascend",
-   "g": "Kinh dị",
-   "dev": "Serafini Productions",
-   "pub": "Chưa rõ",
-   "rel": "7 Thg01, 2027",
-   "date": "7 Thg01, 2027",
-   "days": 78,
-   "exact": true,
-   "tba": false,
-   "ea": false,
-   "aaa": false,
-   "price": 0,
-   "disc": 0,
-   "old": null,
-   "free": false,
-   "critic": null,
-   "meta": null,
-   "steam": null,
-   "rc": null,
-   "hltb": 6,
-   "desc": "Kinh dị tâm lý góc nhìn thứ nhất về hai người leo nóc nhà cố chinh phục toà tháp bí ẩn ở Nhật và bị một thực thể ma quái đeo bám.",
-   "sum": "Ren và Yui leo đêm lên tháp Elysium để quay nội dung cho kênh của họ, nhưng Rokurokubi xuất hiện và hiện thực dần méo mó khi lên cao. Game xoay quanh nỗi sợ bị lãng quên và ám ảnh danh tiếng. Core loop: leo từng tầng tháp, vượt chướng ngại, khám phá hiện tượng siêu nhiên và sống sót để lên đỉnh.",
-   "pros": [
-    "Bối cảnh leo toà nhà độc đáo",
-    "Có demo trên Steam để thử trước"
-   ],
-   "cons": [
-    "Chưa rõ nhà phát hành",
-    "Studio nhỏ, độ dài còn là ẩn số"
-   ],
-   "tags": [
-    "Kinh dị",
-    "Tâm lý",
-    "Góc nhìn thứ nhất",
-    "Nhật Bản",
-    "Không khí"
-   ],
-   "viet": {
-    "has": false,
-    "score": 60,
-    "engine": "chưa rõ",
-    "note": "Thiên về không khí và cốt truyện, lượng chữ vừa phải, đáng Việt hoá nếu có nhiều thoại và ghi chú."
-   },
-   "news": []
-  },
-  {
-   "id": "state-of-decay-3",
-   "t": "State of Decay 3",
-   "g": "Kinh dị",
-   "dev": "Undead Labs",
-   "pub": "Xbox Game Studios",
-   "rel": "2027",
-   "date": "2027",
-   "days": 253,
-   "exact": false,
-   "tba": false,
-   "ea": false,
-   "aaa": true,
-   "price": 0,
-   "disc": 0,
-   "old": null,
-   "free": false,
-   "critic": null,
-   "meta": null,
-   "steam": null,
-   "rc": null,
-   "hltb": 40,
-   "desc": "Phần tiếp theo của series zombie sinh tồn thế giới mở, quản lý cộng đồng người sống sót và co-op tối đa 4 người.",
-   "sum": "Bạn dẫn dắt một nhóm sống sót trong thế giới hậu tận thế, xây dựng căn cứ, tìm tài nguyên và chống lại zombie đang tiến hoá. Có permadeath nên mỗi rủi ro đều có giá. Core loop: ra ngoài lục tài nguyên, chiến đấu với zombie, mang về nâng cấp căn cứ và chăm sóc nhân vật sống sót.",
-   "pros": [
-    "Co-op 4 người trong thế giới chung",
-    "Permadeath tạo căng thẳng"
-   ],
-   "cons": [
-    "Chỉ có cửa sổ 2027, chưa có ngày cụ thể",
-    "Studio từng bị đồn về rủi ro đóng cửa, lịch có thể dời"
-   ],
-   "tags": [
-    "Kinh dị",
-    "Zombie",
-    "Sinh tồn",
-    "Co-op",
-    "Thế giới mở"
-   ],
-   "viet": {
-    "has": false,
-    "score": 55,
-    "engine": "Unreal Engine",
-    "note": "Game sinh tồn thiên về hệ thống, chữ vừa phải nhưng có nhiều nhiệm vụ và thoại nhân vật."
-   },
-   "news": []
-  },
-  {
-   "id": "ill",
-   "t": "ILL",
-   "g": "Kinh dị",
-   "dev": "Team Clout",
-   "pub": "Chưa công bố (hợp tác Mundfish Powerhouse)",
-   "rel": "2027",
-   "date": "2027",
-   "days": 253,
-   "exact": false,
-   "tba": false,
-   "ea": false,
-   "aaa": false,
-   "price": 0,
-   "disc": 0,
-   "old": null,
-   "free": false,
-   "critic": null,
-   "meta": null,
-   "steam": null,
-   "rc": null,
-   "hltb": 10,
-   "desc": "Kinh dị sinh tồn góc nhìn thứ nhất rất máu me, đặt trong cơ sở nghiên cứu nơi các sinh vật Aberration lan tràn.",
-   "sum": "Một thứ ác độc thức tỉnh trong cơ sở nghiên cứu khổng lồ và lũ Aberration tràn ra. Tài nguyên khan hiếm, đạn ít nên phải dùng cận chiến và đồ vật xung quanh. Core loop: thám hiểm cơ sở, tiết kiệm đạn, chiến đấu cận chiến với quái vật và lần ra nguyên nhân thảm hoạ.",
-   "pros": [
-    "Phong cách gore, trình bày điện ảnh",
-    "Wishlist cao, được chờ đợi nhiều"
-   ],
-   "cons": [
-    "Chỉ có cửa sổ 2027",
-    "Chưa công bố nhà phát hành chính thức"
-   ],
-   "tags": [
-    "Kinh dị",
-    "Sinh tồn",
-    "Gore",
-    "Góc nhìn thứ nhất",
-    "Cận chiến"
-   ],
-   "viet": {
-    "has": false,
-    "score": 55,
-    "engine": "Unreal Engine",
-    "note": "Chưa rõ lượng chữ, có thể có nhiều ghi chú và tài liệu trong cơ sở nghiên cứu."
-   },
-   "news": []
-  },
-  {
-   "id": "cookie-clicker",
-   "t": "Cookie Clicker",
-   "g": "Idle",
-   "dev": "Orteil",
-   "pub": "Playsaurus",
-   "rel": "Đã phát hành",
-   "date": "1 Thg09, 2021",
-   "days": 0,
-   "exact": false,
-   "tba": false,
-   "ea": false,
-   "aaa": false,
-   "price": 125000,
-   "disc": 0,
-   "old": null,
-   "free": false,
-   "critic": null,
-   "meta": null,
-   "steam": 96,
-   "rc": 88047,
-   "hltb": 100,
-   "desc": "Bấm bánh quy khổng lồ rồi xây cả đế chế sản xuất bánh với bà già, nông trại, nhà máy và hơn thế nữa. Cha đẻ của thể loại clicker hiện đại.",
-   "sum": "Bản Steam có thêm nhạc nền và thành tựu Steam, nội dung rất sâu với nâng cấp, huy hiệu và prestige. Phù hợp để mở nền chạy ngày này qua ngày khác. Core loop: bấm bánh, mua công trình tự động, mở nâng cấp, rồi prestige để nhân hệ số.",
-   "pros": [
-    "Nội dung sâu, nhiều bí mật",
-    "Dễ vào, hợp chơi nền"
-   ],
-   "cons": [
-    "Mốc cuối game rất dài",
-    "Giao diện hơi rối khi nhiều tính năng"
-   ],
-   "tags": [
-    "Idle",
-    "Incremental",
-    "Clicker",
-    "Thư giãn",
-    "Prestige"
-   ],
-   "viet": {
-    "has": false,
-    "score": 55,
-    "engine": "HTML5/JavaScript",
-    "note": "Lượng chữ vừa phải nhưng nhiều chuỗi hài hước, lượng người chơi VN lớn nên đáng cân nhắc; giá VN quy đổi thô từ 4,99 EUR."
-   },
-   "news": []
-  },
-  {
-   "id": "rustys-retirement",
-   "t": "Rusty's Retirement",
-   "g": "Idle",
-   "dev": "Mister Morris Games",
-   "pub": "Mister Morris Games",
-   "rel": "Đã phát hành",
-   "date": "26 Thg04, 2024",
-   "days": 0,
-   "exact": false,
-   "tba": false,
-   "ea": false,
-   "aaa": false,
-   "price": 61000,
-   "disc": 40,
-   "old": 102000,
-   "free": false,
-   "critic": null,
-   "meta": null,
-   "steam": 97,
-   "rc": 14917,
-   "hltb": 60,
-   "desc": "Game nông trại nghỉ hưu: nhân vật tự làm việc theo kịch bản bạn lập sẵn, bạn tối ưu rồi ngồi nhìn thôn quê lớn dần.",
-   "sum": "Hình ảnh pixel ấm áp, nhịp chơi nhàn nhã, tự động hóa là trọng tâm thay vì bấm liên tục. Được đánh giá rất cao nhờ độ thư giãn. Core loop: giao việc tự động, thu hoạch tài nguyên, mở khóa khu vực và công cụ mới để mở rộng trang trại.",
-   "pros": [
-    "Thư giãn, đồ họa dễ thương",
-    "Tự động hóa thỏa mãn"
-   ],
-   "cons": [
-    "Về sau nhịp chậm",
-    "Chưa có tiếng Việt"
-   ],
-   "tags": [
-    "Idle",
-    "Nông trại",
-    "Thư giãn",
-    "Tự động hóa",
-    "Pixel"
-   ],
-   "viet": {
-    "has": false,
-    "score": 70,
-    "engine": "chưa rõ",
-    "note": "Điểm đánh giá 97% và ít chữ nên rất đáng Việt hoá; giá Steam VN hiện giảm 40% (61.000đ), giá gốc 102.000đ."
-   },
-   "news": []
-  },
-  {
-   "id": "bongo-cat",
-   "t": "Bongo Cat",
-   "g": "Idle",
-   "dev": "Irox Games",
-   "pub": "Irox Games",
-   "rel": "Đã phát hành",
-   "date": "5 Thg03, 2025",
-   "days": 0,
-   "exact": false,
-   "tba": false,
-   "ea": false,
-   "aaa": false,
-   "price": 0,
-   "disc": 0,
-   "old": null,
-   "free": true,
-   "critic": null,
-   "meta": null,
-   "steam": 97,
-   "rc": 112746,
-   "hltb": 50,
-   "desc": "Chú mèo gõ bàn phím và bấm chuột theo bạn ngay trên màn hình, kèm hệ thống sưu tầm và nâng cấp kiểu idle. Miễn phí.",
-   "sum": "Vừa là vật trang trí desktop vừa có lớp idle sưu tầm vật phẩm, cực nhẹ để treo máy. Số đánh giá rất lớn nhờ lượng người dùng streamer. Core loop: gõ phím hoặc để mèo tự chạy, nhận tiền thưởng, mở khóa skin và vật phẩm mới.",
-   "pros": [
-    "Miễn phí, rất nhẹ",
-    "Cộng đồng streamer lớn"
-   ],
-   "cons": [
-    "Chiều sâu game hạn chế",
-    "DLC skin bán riêng"
-   ],
-   "tags": [
-    "Idle",
-    "Clicker",
-    "Thư giãn",
-    "Miễn phí",
-    "Ứng dụng desktop"
-   ],
-   "viet": {
-    "has": false,
-    "score": 65,
-    "engine": "chưa rõ",
-    "note": "Rất đông người dùng, ít chữ nên Việt hoá ít công; nhưng giá trị nằm ở sưu tầm hơn là cốt truyện."
-   },
-   "news": []
-  },
-  {
-   "id": "idle-slayer",
-   "t": "Idle Slayer",
-   "g": "Idle",
-   "dev": "Pablo Leban",
-   "pub": "Pablo Leban",
-   "rel": "Đã phát hành",
-   "date": "21 Thg12, 2020",
-   "days": 0,
-   "exact": false,
-   "tba": false,
-   "ea": false,
-   "aaa": false,
-   "price": 0,
-   "disc": 0,
-   "old": null,
-   "free": true,
-   "critic": null,
-   "meta": null,
-   "steam": 84,
-   "rc": 10977,
-   "hltb": 60,
-   "desc": "Platformer chạy tự động đánh quái kết hợp nâng cấp kiểu idle, bạn nhảy, chém và thu coin liên tục. Miễn phí.",
-   "sum": "Pha trộn runner 2D với tiến triển idle nên có cảm giác chủ động hơn clicker thuần. Có hệ thống ascension, vũ khí, nhiệm vụ. Core loop: chạy, nhảy, chém quái, gom coin, mua nâng cấp, rồi ascend để mạnh hơn.",
-   "pros": [
-    "Có yếu tố hành động",
-    "Hỗ trợ tiếng Việt"
-   ],
-   "cons": [
-    "Một số đánh giá chê quảng cáo kiểu mobile",
-    "Cân bằng hơi lệch ở cuối"
-   ],
-   "tags": [
-    "Idle",
-    "Platformer",
-    "Hành động",
-    "Miễn phí",
-    "Pixel"
-   ],
-   "viet": {
-    "has": true,
-    "score": 30,
-    "engine": "Unity",
-    "note": "Steam đã hỗ trợ tiếng Việt nên không cần Việt hoá thêm."
-   },
-   "news": []
-  },
-  {
-   "id": "clicker-heroes",
-   "t": "Clicker Heroes",
-   "g": "Idle",
-   "dev": "Playsaurus",
-   "pub": "Playsaurus",
-   "rel": "Đã phát hành",
-   "date": "13 Thg05, 2015",
-   "days": 0,
-   "exact": false,
-   "tba": false,
-   "ea": false,
-   "aaa": false,
-   "price": 0,
-   "disc": 0,
-   "old": null,
-   "free": true,
-   "critic": null,
-   "meta": null,
-   "steam": 90,
-   "rc": 62150,
-   "hltb": 100,
-   "desc": "Bấm để đánh quái, thuê anh hùng tự động và leo màn không giới hạn. Một trong những clicker đình đám nhất, miễn phí.",
-   "sum": "Hệ thống anh hùng, hiện vật và ascension tạo chiều sâu tính toán. Nhịp chơi dài hơi, hợp theo dõi mỗi ngày. Core loop: đánh quái qua màn, nhận vàng thuê và nâng cấp anh hùng, ascend để lấy linh hồn mạnh hơn.",
-   "pros": [
-    "Miễn phí, nhiều người chơi",
-    "Chiều sâu chiến lược"
-   ],
-   "cons": [
-    "Giao diện cũ",
-    "Dễ nản ở giai đoạn giữa"
-   ],
-   "tags": [
-    "Idle",
-    "Clicker",
-    "Incremental",
-    "RPG",
-    "Miễn phí"
-   ],
-   "viet": {
-    "has": true,
-    "score": 25,
-    "engine": "HTML5/JavaScript (ước đoán)",
-    "note": "Trang Steam ghi có tiếng Việt nên nhu cầu Việt hoá thấp; nên kiểm tra lại chất lượng bản dịch."
-   },
-   "news": []
-  },
-  {
-   "id": "antimatter-dimensions",
-   "t": "Antimatter Dimensions",
-   "g": "Idle",
-   "dev": "Hevipelle, Omsi, Razenpok, Spectralflame, WaitingIdly",
-   "pub": "Hevipelle, Makopaz",
-   "rel": "Đã phát hành",
-   "date": "17 Thg12, 2022",
-   "days": 0,
-   "exact": false,
-   "tba": false,
-   "ea": false,
-   "aaa": false,
-   "price": 0,
-   "disc": 0,
-   "old": null,
-   "free": true,
-   "critic": null,
-   "meta": null,
-   "steam": 92,
-   "rc": 4639,
-   "hltb": 150,
-   "desc": "Incremental thuần số học: sinh phản vật chất rồi tạo các chiều không gian ngày càng cao. Nhiều lớp prestige, miễn phí.",
-   "sum": "Nặng tính toán, hợp người thích tối ưu và đọc công thức. Nội dung cực dài với nhiều tầng prestige liên tiếp. Core loop: mua các Dimension để tăng antimatter, reset bằng Dimension Boost và Infinity, rồi mở khóa cơ chế mới ở mỗi tầng.",
-   "pros": [
-    "Chiều sâu rất lớn",
-    "Miễn phí, không ép nạp"
-   ],
-   "cons": [
-    "Khó với người mới",
-    "Chỉ có tiếng Anh"
-   ],
-   "tags": [
-    "Idle",
-    "Incremental",
-    "Toán học",
-    "Prestige",
-    "Miễn phí"
-   ],
-   "viet": {
-    "has": false,
-    "score": 60,
-    "engine": "JavaScript/Vue",
-    "note": "Nhiều thuật ngữ khó dịch nhưng mã nguồn mở, cộng đồng yêu thích; Steam chỉ có tiếng Anh."
-   },
-   "news": []
-  },
-  {
-   "id": "ff-resonance",
-   "t": "Final Fantasy Resonance",
-   "g": "RPG",
-   "dev": "Square Enix",
-   "pub": "Square Enix",
-   "rel": "22 Thg10, 2026",
-   "date": "22 Thg10, 2026",
-   "days": 1,
-   "exact": true,
-   "tba": false,
-   "ea": false,
-   "aaa": true,
-   "price": 0,
-   "disc": 0,
-   "old": null,
-   "free": false,
-   "critic": null,
-   "meta": null,
-   "steam": null,
-   "rc": null,
-   "hltb": 40,
-   "desc": "Tựa Final Fantasy mới theo phong cách đồ họa HD-2D, ra mắt đồng thời trên PC và console.",
-   "sum": "Phần mới của dòng Final Fantasy dùng lối đồ họa HD-2D hoài cổ nhưng hiện đại, tập trung vào cốt truyện kịch tính và dàn nhân vật. Bản Steam đã được xác nhận tương thích Steam Deck. Core loop: khám phá thế giới, đánh theo lượt với đội hình, lên cấp và nâng cấp kỹ năng rồi tiến tiếp cốt truyện.",
-   "pros": [
-    "Phong cách HD-2D đẹp, giàu cảm xúc",
-    "Thương hiệu Final Fantasy uy tín"
-   ],
-   "cons": [
-    "Nhịp truyện có thể chậm với người thích hành động"
-   ],
-   "tags": [
-    "Nhập vai",
-    "JRPG",
-    "Theo lượt",
-    "HD-2D",
-    "Cốt truyện"
-   ],
-   "viet": {
-    "has": false,
-    "score": 80,
-    "engine": "chưa rõ",
-    "note": "JRPG nhiều thoại và cốt truyện, rất đáng Việt hoá nếu mod được file văn bản."
-   },
-   "news": []
-  },
-  {
-   "id": "dqm-withered",
-   "t": "Dragon Quest Monsters: The Withered World",
-   "g": "RPG",
-   "dev": "Square Enix",
-   "pub": "Square Enix",
-   "rel": "3 Thg12, 2026",
-   "date": "3 Thg12, 2026",
-   "days": 43,
-   "exact": true,
-   "tba": false,
-   "ea": false,
-   "aaa": true,
-   "price": 0,
-   "disc": 0,
-   "old": null,
-   "free": false,
-   "critic": null,
-   "meta": null,
-   "steam": null,
-   "rc": null,
-   "hltb": 40,
-   "desc": "Phần mới của Dragon Quest Monsters với hơn 500 quái vật để thu thập, có bản demo trên Steam.",
-   "sum": "Hai nhân vật chính Bianca và Nera đi hồi sinh vùng đất Witherwood bằng cách chiêu mộ và phối giống quái vật. Core loop: bắt quái, phối giống ra loài mạnh hơn, xây đội hình rồi đánh theo lượt để mở khoá khu vực mới.",
-   "pros": [
-    "Kho quái vật khổng lồ để sưu tầm",
-    "Có demo chơi thử trên Steam"
-   ],
-   "cons": [
-    "Cơ chế phối giống dễ gây ngợp"
-   ],
-   "tags": [
-    "Nhập vai",
-    "JRPG",
-    "Theo lượt",
-    "Sưu tầm quái vật",
-    "Dễ thương"
-   ],
-   "viet": {
-    "has": false,
-    "score": 70,
-    "engine": "chưa rõ",
-    "note": "Lượng thoại vừa phải, menu và mô tả kỹ năng nhiều chữ, khá đáng Việt hoá."
-   },
-   "news": []
-  },
-  {
-   "id": "poe2-1-0",
-   "t": "Path of Exile 2 (bản 1.0)",
-   "g": "RPG",
-   "dev": "Grinding Gear Games",
-   "pub": "Grinding Gear Games",
-   "rel": "11 Thg12, 2026",
-   "date": "11 Thg12, 2026",
-   "days": 51,
-   "exact": true,
-   "tba": false,
-   "ea": false,
-   "aaa": true,
-   "price": 0,
-   "disc": 0,
-   "old": null,
-   "free": false,
-   "critic": null,
-   "meta": null,
-   "steam": null,
-   "rc": null,
-   "hltb": 100,
-   "desc": "ARPG hardcore tiếp nối Path of Exile, chính thức thoát Early Access với bản 1.0 và có thêm lớp nhân vật Duelist.",
-   "sum": "Bản phát hành đầy đủ của Path of Exile 2 trên PC và console, bổ sung lớp Duelist cùng nội dung hoàn chỉnh. Core loop: đánh quái, nhặt trang bị, tối ưu cây kỹ năng và build rồi thử sức boss cùng endgame.",
-   "pros": [
-    "Hệ thống build cực sâu",
-    "Chơi miễn phí, chiến đấu nặng tay"
-   ],
-   "cons": [
-    "Độ phức tạp cao, dễ nản với người mới"
-   ],
-   "tags": [
-    "Nhập vai hành động",
-    "ARPG",
-    "Hack and slash",
-    "Miễn phí",
-    "Co-op"
-   ],
-   "viet": {
-    "has": false,
-    "score": 60,
-    "engine": "chưa rõ",
-    "note": "Nhiều chữ ở vật phẩm và mod nên khó, nhưng nhu cầu người chơi Việt lớn."
-   },
-   "news": []
-  },
-  {
-   "id": "romancing-saga-3",
-   "t": "Romancing SaGa 3: Destinies United",
-   "g": "RPG",
-   "dev": "Square Enix",
-   "pub": "Square Enix",
-   "rel": "16 Thg02, 2027",
-   "date": "16 Thg02, 2027",
-   "days": 118,
-   "exact": true,
-   "tba": false,
-   "ea": false,
-   "aaa": true,
-   "price": 0,
-   "disc": 0,
-   "old": null,
-   "free": false,
-   "critic": null,
-   "meta": null,
-   "steam": null,
-   "rc": null,
-   "hltb": 45,
-   "desc": "Bản làm lại 3D toàn diện của Romancing SaGa 3 kinh điển, do đội ngũ làm Romancing SaGa 2 Remake thực hiện.",
-   "sum": "Remake đồ hoạ 3D của JRPG kinh điển với hệ thống tự do chọn nhân vật và hướng đi. Core loop: chọn nhân vật, khám phá bản đồ, đánh theo lượt, lĩnh hội kỹ năng mới rồi mở rộng cốt truyện nhiều nhánh.",
-   "pros": [
-    "Tự do hành trình, giá trị chơi lại cao",
-    "Hệ thống chiến đấu chiều sâu"
-   ],
-   "cons": [
-    "Hệ thống SaGa khó hiểu với người mới"
-   ],
-   "tags": [
-    "Nhập vai",
-    "JRPG",
-    "Theo lượt",
-    "Remake",
-    "Tự do"
-   ],
-   "viet": {
-    "has": false,
-    "score": 65,
-    "engine": "chưa rõ",
-    "note": "Thoại và mô tả kỹ năng khá nhiều, đáng Việt hoá nếu có người dịch."
-   },
-   "news": []
-  },
-  {
-   "id": "atelier-karia",
-   "t": "Atelier Karia: The Night Kingdom & the Guide of Memories",
-   "g": "RPG",
-   "dev": "Gust",
-   "pub": "Koei Tecmo",
-   "rel": "25 Thg02, 2027",
-   "date": "25 Thg02, 2027",
-   "days": 127,
-   "exact": true,
-   "tba": false,
-   "ea": false,
-   "aaa": false,
-   "price": 0,
-   "disc": 0,
-   "old": null,
-   "free": false,
-   "critic": null,
-   "meta": null,
-   "steam": null,
-   "rc": null,
-   "hltb": 35,
-   "desc": "Phần mới của dòng Atelier với phong cách luyện kim và nhân vật mới, có mặt trên PC.",
-   "sum": "Tựa Atelier mới kết hợp luyện kim, khám phá và chiến đấu với dàn nhân vật mới. Core loop: thu thập nguyên liệu, chế tạo vật phẩm, chiến đấu theo hệ thống của game rồi hoàn thành nhiệm vụ để mở rộng vùng đất.",
-   "pros": [
-    "Nghệ thuật dễ thương, nhịp chơi thư giãn",
-    "Hệ thống chế tạo gây nghiện"
-   ],
-   "cons": [
-    "Nhịp độ chậm"
-   ],
-   "tags": [
-    "Nhập vai",
-    "JRPG",
-    "Chế tạo",
-    "Anime",
-    "Thư giãn"
-   ],
-   "viet": {
-    "has": false,
-    "score": 65,
-    "engine": "chưa rõ",
-    "note": "Nhiều thoại nhẹ nhàng và vật phẩm chế tạo, vừa phải để Việt hoá."
-   },
-   "news": []
-  },
-  {
-   "id": "exodus",
-   "t": "Exodus",
-   "g": "RPG",
-   "dev": "Archetype Entertainment",
-   "pub": "Archetype Entertainment",
-   "rel": "7 Thg04, 2027",
-   "date": "7 Thg04, 2027",
-   "days": 168,
-   "exact": true,
-   "tba": false,
-   "ea": false,
-   "aaa": true,
-   "price": 0,
-   "disc": 0,
-   "old": null,
-   "free": false,
-   "critic": null,
-   "meta": null,
-   "steam": null,
-   "rc": null,
-   "hltb": 35,
-   "desc": "RPG hành động khoa học viễn tưởng góc nhìn thứ ba, phong cách Mass Effect, ra mắt trên Steam.",
-   "sum": "Câu chuyện du hành không gian với phi hành đoàn đa dạng, trong đó có một thành viên tám tay. Core loop: khám phá hành tinh, trò chuyện và lựa chọn, giao tranh hành động rồi phát triển đội ngũ.",
-   "pros": [
-    "Cốt truyện và lựa chọn kiểu Mass Effect",
-    "Đội ngũ nhân vật độc đáo"
-   ],
-   "cons": [
-    "Studio còn mới, chưa có tiền lệ"
-   ],
-   "tags": [
-    "Nhập vai",
-    "Khoa học viễn tưởng",
-    "Hành động",
-    "Cốt truyện",
-    "Chọn lựa"
-   ],
-   "viet": {
-    "has": false,
-    "score": 85,
-    "engine": "chưa rõ",
-    "note": "Lượng thoại và lựa chọn rất lớn, rất đáng Việt hoá."
-   },
-   "news": []
-  },
-  {
-   "id": "lotf-2",
-   "t": "Lords of the Fallen II",
-   "g": "RPG",
-   "dev": "Hexworks",
-   "pub": "CI Games",
-   "rel": "Q1 2027",
-   "date": "Q1 2027",
-   "days": 117,
-   "exact": false,
-   "tba": false,
-   "ea": false,
-   "aaa": true,
-   "price": 0,
-   "disc": 0,
-   "old": null,
-   "free": false,
-   "critic": null,
-   "meta": null,
-   "steam": null,
-   "rc": null,
-   "hltb": 35,
-   "desc": "Phần tiếp theo của game nhập vai hành động kiểu Soulslike, bị lùi sang Q1 2027.",
-   "sum": "Tựa Soulslike tối tăm tiếp nối bản 2023, ra mắt trên Steam cùng nhiều nền tảng. Core loop: khám phá, chiến đấu nặng nề, hồi sinh sau khi chết, mở lối tắt rồi hạ boss để đi tiếp.",
-   "pros": [
-    "Thế giới tối tăm, chiến đấu nặng tay",
-    "Thích hợp người mê Soulslike"
-   ],
-   "cons": [
-    "Từng bị lùi ngày ra mắt"
-   ],
-   "tags": [
-    "Nhập vai hành động",
-    "Soulslike",
-    "Tối tăm",
-    "Khó",
-    "Boss"
-   ],
-   "viet": {
-    "has": false,
-    "score": 45,
-    "engine": "chưa rõ",
-    "note": "Ít thoại hơn RPG truyện, giá trị Việt hoá vừa phải."
-   },
-   "news": []
-  },
-  {
-   "id": "kingdom-hearts-4",
-   "t": "Kingdom Hearts 4",
-   "g": "RPG",
-   "dev": "Square Enix",
-   "pub": "Square Enix",
-   "rel": "2027",
-   "date": "2027",
-   "days": 345,
-   "exact": false,
-   "tba": false,
-   "ea": false,
-   "aaa": true,
-   "price": 0,
-   "disc": 0,
-   "old": null,
-   "free": false,
-   "critic": null,
-   "meta": null,
-   "steam": null,
-   "rc": null,
-   "hltb": 50,
-   "desc": "Phần chính tiếp theo của Kingdom Hearts, đã được công bố ra mắt trên PC trong năm 2027.",
-   "sum": "Chương mới của saga Kingdom Hearts với thế giới hiện đại như Tokyo. Core loop: khám phá thế giới Disney và Square Enix, chiến đấu hành động theo thời gian thực, nâng kỹ năng rồi đẩy cốt truyện.",
-   "pros": [
-    "Thương hiệu được trông đợi từ lâu",
-    "Chiến đấu hành động mượt"
-   ],
-   "cons": [
-    "Chưa rõ nền tảng Steam cụ thể",
-    "Cốt truyện phức tạp"
-   ],
-   "tags": [
-    "Nhập vai hành động",
-    "Disney",
-    "Cốt truyện",
-    "Hành động",
-    "Anime"
-   ],
-   "viet": {
-    "has": false,
-    "score": 75,
-    "engine": "chưa rõ",
-    "note": "Cốt truyện đồ sộ nhiều thoại, rất đáng Việt hoá nhưng còn xa ngày ra."
-   },
-   "news": []
-  },
-  {
-   "id": "tropico7",
-   "t": "Tropico 7",
-   "g": "Mô phỏng",
-   "dev": "Gaming Minds Studios",
-   "pub": "Kalypso Media",
-   "rel": "28 Thg01, 2027",
-   "date": "28 Thg01, 2027",
-   "days": 99,
-   "exact": true,
-   "tba": false,
-   "ea": false,
-   "aaa": false,
-   "price": 0,
-   "disc": 0,
-   "old": null,
-   "free": false,
-   "critic": null,
-   "meta": null,
-   "steam": null,
-   "rc": null,
-   "hltb": 40,
-   "desc": "Phần mới của series xây dựng đảo quốc hài hước, bạn đóng vai El Presidente điều hành cả một quốc gia chuối.",
-   "sum": "Bạn xây dựng và cai trị một hòn đảo qua năm chiến dịch, có thêm tính năng tạo hình địa hình, hội đồng các phe phái chính trị, bầu cử, diễn văn và sắc lệnh. Hệ thống quân sự được làm lại để điều khiển trực tiếp hơn, kèm hơn 20 bản đồ sandbox và trình tạo bản đồ ngẫu nhiên. Core loop: xây dựng kinh tế và công trình, cân bằng các phe phái và người dân, ban hành sắc lệnh, giữ quyền lực rồi mở rộng đảo.",
-   "pros": [
-    "Series xây dựng thành phố có phong cách châm biếm đặc trưng",
-    "Nhiều nội dung ngay từ đầu: chiến dịch, sandbox, tạo bản đồ ngẫu nhiên"
-   ],
-   "cons": [
-    "Công thức khá quen thuộc với fan cũ",
-    "Phát hành đa nền tảng nên có thể bị so sánh về tối ưu PC"
-   ],
-   "tags": [
-    "Mô phỏng",
-    "Xây dựng thành phố",
-    "Chiến lược",
-    "Hài hước",
-    "Chính trị"
-   ],
-   "viet": {
-    "has": false,
-    "score": 55,
-    "engine": "chưa rõ",
-    "note": "Nhiều chữ (sắc lệnh, sự kiện, thoại hài hước) nên đáng Việt hoá nếu muốn chơi trọn vẹn, nhưng chưa xác nhận hỗ trợ tiếng Việt."
-   },
-   "news": []
-  },
-  {
-   "id": "frostpunk1886",
-   "t": "Frostpunk 1886",
-   "g": "Mô phỏng",
-   "dev": "11 bit studios",
-   "pub": "11 bit studios",
-   "rel": "2027",
-   "date": "2027",
-   "days": 253,
-   "exact": false,
-   "tba": false,
-   "ea": false,
-   "aaa": true,
-   "price": 0,
-   "disc": 0,
-   "old": null,
-   "free": false,
-   "critic": null,
-   "meta": null,
-   "steam": null,
-   "rc": null,
-   "hltb": 20,
-   "desc": "Bản làm lại của Frostpunk gốc trên Unreal Engine 5, nơi bạn dẫn dắt thành phố cuối cùng của nhân loại sống sót qua kỷ băng hà.",
-   "sum": "Tựa game xây dựng thành phố sinh tồn được dựng lại bằng Unreal Engine 5, bổ sung nội dung, cơ chế và luật mới cùng nhánh Purpose, đồng thời hỗ trợ mod. Bạn phải đưa ra các quyết định đạo đức khó khăn để giữ cho cộng đồng sống sót. Core loop: thu thập tài nguyên, xây dựng và sưởi ấm thành phố, ban hành luật, xử lý khủng hoảng và các lựa chọn đạo đức để qua từng đợt lạnh.",
-   "pros": [
-    "Đồ họa Unreal Engine 5 và có hỗ trợ mod",
-    "Gameplay sinh tồn đạo đức rất cuốn hút"
-   ],
-   "cons": [
-    "Là bản làm lại nên có thể trùng phần lớn nội dung bản gốc",
-    "Chỉ mới có khung 2027, chưa có ngày chính thức"
-   ],
-   "tags": [
-    "Mô phỏng",
-    "Xây dựng thành phố",
-    "Sinh tồn",
-    "Chiến lược",
-    "Bầu không khí"
-   ],
-   "viet": {
-    "has": false,
-    "score": 65,
-    "engine": "Unreal Engine 5",
-    "note": "Cốt truyện và luật pháp nhiều chữ, lựa chọn đạo đức cần hiểu rõ nên rất đáng Việt hoá; chưa xác nhận hỗ trợ tiếng Việt."
-   },
-   "news": []
-  },
-  {
-   "id": "arma4",
-   "t": "Arma 4",
-   "g": "Mô phỏng",
-   "dev": "Bohemia Interactive",
-   "pub": "Bohemia Interactive",
-   "rel": "2027",
-   "date": "2027",
-   "days": 253,
-   "exact": false,
-   "tba": false,
-   "ea": false,
-   "aaa": true,
-   "price": 0,
-   "disc": 0,
-   "old": null,
-   "free": false,
-   "critic": null,
-   "meta": null,
-   "steam": null,
-   "rc": null,
-   "hltb": 60,
-   "desc": "Phần tiếp theo của series mô phỏng quân sự hạng nặng Arma, do Bohemia Interactive phát triển cho PC.",
-   "sum": "Bohemia mới chỉ công bố mốc 2027, bối cảnh và tính năng chưa được tiết lộ. Series nổi tiếng với chiến trường quy mô lớn, mô phỏng chiến thuật chân thực và cộng đồng mod mạnh. Core loop: lên kế hoạch, phối hợp tiểu đội và phương tiện, hoàn thành nhiệm vụ trên chiến trường rộng lớn.",
-   "pros": [
-    "Thương hiệu mô phỏng quân sự chiến thuật có tiếng",
-    "Cộng đồng mod và multiplayer quy mô lớn"
-   ],
-   "cons": [
-    "Chưa biết bối cảnh và tính năng",
-    "Độ khó cao, đường cong học dốc"
-   ],
-   "tags": [
-    "Mô phỏng",
-    "Quân sự",
-    "Chiến thuật",
-    "Thế giới mở",
-    "Multiplayer"
-   ],
-   "viet": {
-    "has": false,
-    "score": 35,
-    "engine": "Enfusion (dự kiến, chưa xác nhận)",
-    "note": "Chủ yếu chơi nhiều người, ít chữ cốt truyện nên ưu tiên Việt hoá thấp; chưa có thông tin về ngôn ngữ."
-   },
-   "news": []
-  },
-  {
-   "id": "everbloom",
-   "t": "Everbloom",
-   "g": "Mô phỏng",
-   "dev": "Torbie Games",
-   "pub": "Fictions",
-   "rel": "Mùa xuân 2027",
-   "date": "Mùa xuân 2027",
-   "days": 176,
-   "exact": false,
-   "tba": false,
-   "ea": false,
-   "aaa": false,
-   "price": 0,
-   "disc": 0,
-   "old": null,
-   "free": false,
-   "critic": null,
-   "meta": null,
-   "steam": null,
-   "rc": null,
-   "hltb": 30,
-   "desc": "Game mô phỏng đời sống và nông trại ấm cúng, thế giới dễ thương và nhiều tương tác xã hội, trên PC (Steam, Epic) và Switch 2.",
-   "sum": "Trò chơi mô phỏng đời sống thư giãn do các cựu thành viên đội ngũ Astroneer thực hiện, tập trung vào khám phá, kết giao với cư dân và làm nông trong một thế giới kỳ ảo. Core loop: trồng trọt, khám phá, giao lưu với cư dân, mở rộng nông trại và các mối quan hệ.",
-   "pros": [
-    "Phong cách cozy, dễ tiếp cận",
-    "Có trailer mới và lộ trình ra mắt rõ ràng"
-   ],
-   "cons": [
-    "Chi tiết cơ chế còn ít",
-    "Thể loại cozy farming đang rất đông đối thủ"
-   ],
-   "tags": [
-    "Mô phỏng",
-    "Nông trại",
-    "Cozy",
-    "Mô phỏng đời sống",
-    "Thư giãn"
-   ],
-   "viet": {
-    "has": false,
-    "score": 60,
-    "engine": "chưa rõ",
-    "note": "Game xã hội nhiều thoại NPC nên rất hợp Việt hoá; chưa xác nhận tiếng Việt."
-   },
-   "news": []
-  },
-  {
-   "id": "saltandsoil",
-   "t": "Salt and Soil: A Frontier Family Sim",
-   "g": "Mô phỏng",
-   "dev": "DelosX",
-   "pub": "chưa rõ",
-   "rel": "9 Thg11, 2026",
-   "date": "9 Thg11, 2026",
-   "days": 19,
-   "exact": true,
-   "tba": false,
-   "ea": false,
-   "aaa": false,
-   "price": 0,
-   "disc": 0,
-   "old": null,
-   "free": false,
-   "critic": null,
-   "meta": null,
-   "steam": null,
-   "rc": null,
-   "hltb": 15,
-   "desc": "Colony sim roguelite theo lượt về một gia đình trên vùng biên giới nước Mỹ từ năm 1609 đến 1900, ra mắt Early Access trên Steam.",
-   "sum": "Mỗi lượt là một năm: bạn trồng trọt, chăn nuôi, dựng xưởng, giao thương và đối phó các thế lực xung quanh. Cuối mỗi năm có Hội đồng gia đình biến sự kiện thành các tình huống khó xử, khi gia chủ mất thì thế hệ sau thừa kế cả nợ nần lẫn thanh danh. Bản Early Access cần kết nối internet vì dùng AI tạo sinh, dự kiến bản 1.0 vào nửa đầu 2027. Core loop: quản lý tài nguyên theo năm, xử lý Hội đồng gia đình, truyền lại cho thế hệ sau.",
-   "pros": [
-    "Ý tưởng roguelite colony sim độc đáo theo nhiều thế hệ",
-    "Đồ họa tối giản, nhịp chơi theo lượt dễ tiếp cận"
-   ],
-   "cons": [
-    "Early Access, bắt buộc online do dùng AI tạo sinh",
-    "Do một người làm nên nội dung có thể hạn chế"
-   ],
-   "tags": [
-    "Mô phỏng",
-    "Colony sim",
-    "Roguelite",
-    "Theo lượt",
-    "Early Access"
-   ],
-   "viet": {
-    "has": false,
-    "score": 40,
-    "engine": "chưa rõ",
-    "note": "Steam chưa hỗ trợ tiếng Việt (10 ngôn ngữ, không có Việt), nhiều chữ sự kiện nhưng nội dung do AI sinh nên khó Việt hoá."
-   },
-   "news": []
-  },
-  {
-   "id": "dow4",
-   "t": "Warhammer 40,000: Dawn of War IV",
-   "g": "Chiến thuật",
-   "dev": "KING Art",
-   "pub": "Deep Silver",
-   "rel": "3 Thg12, 2026",
-   "date": "3 Thg12, 2026",
-   "days": 43,
-   "exact": true,
-   "tba": false,
-   "ea": false,
-   "aaa": true,
-   "price": 0,
-   "disc": 0,
-   "old": null,
-   "free": false,
-   "critic": null,
-   "meta": null,
-   "steam": null,
-   "rc": null,
-   "hltb": 20,
-   "desc": "Phần RTS mới của dòng Dawn of War, quay lại chiến trường grimdark của Warhammer 40K với xây căn cứ và chỉ huy quân đội thời gian thực. Game vừa bị lùi từ tháng 9 sang 3/12/2026.",
-   "sum": "Dawn of War IV là game chiến thuật thời gian thực lấy bối cảnh vũ trụ Warhammer 40,000, nơi người chơi dẫn dắt các phe như Space Marines hay Orks trong chiến dịch và đối kháng. Nhà phát hành cho biết sẽ có thêm nội dung mở rộng sau khi ra mắt. Core loop: thu thập tài nguyên, mở rộng căn cứ, tuyển đội hình rồi chỉ huy trận đánh để chiếm điểm và tiêu diệt đối thủ.",
-   "pros": [
-    "Thương hiệu Warhammer 40K rất mạnh",
-    "RTS cổ điển hiếm gặp ở tầm AAA"
-   ],
-   "cons": [
-    "Đã bị lùi ngày một lần",
-    "Chưa rõ hỗ trợ tiếng Việt"
-   ],
-   "tags": [
-    "Chiến thuật",
-    "RTS",
-    "Warhammer",
-    "Khoa học viễn tưởng",
-    "Nhiều người chơi"
-   ],
-   "viet": {
-    "has": false,
-    "score": 70,
-    "engine": "chưa rõ",
-    "note": "Chiến dịch có thoại và lore dày nên đáng Việt hoá nếu mod được file text, thuật ngữ Warhammer cần thống nhất."
-   },
-   "news": []
-  },
-  {
-   "id": "twh40k",
-   "t": "Total War: Warhammer 40,000",
-   "g": "Chiến thuật",
-   "dev": "Creative Assembly",
-   "pub": "SEGA",
-   "rel": "2027",
-   "date": "2027",
-   "days": 253,
-   "exact": false,
-   "tba": false,
-   "ea": false,
-   "aaa": true,
-   "price": 0,
-   "disc": 0,
-   "old": null,
-   "free": false,
-   "critic": null,
-   "meta": null,
-   "steam": null,
-   "rc": null,
-   "hltb": 80,
-   "desc": "Total War đầu tiên đặt trong vũ trụ Warhammer 40K, kết hợp quản lý đế chế theo lượt và chiến đấu thời gian thực. Chưa có ngày chính thức, một số trang liệt kê năm 2027.",
-   "sum": "Creative Assembly mang công thức Total War lên quy mô liên sao với nhiều phe 40K. Game được công bố cho PC, PS5 và Xbox Series; closed beta dự kiến trong năm 2026. Core loop: quản lý bản đồ chiến dịch theo lượt, nghiên cứu và chiêu mộ quân, rồi vào trận thời gian thực để quyết định thắng thua.",
-   "pros": [
-    "Công thức Total War đã được kiểm chứng",
-    "Thương hiệu 40K cực lớn"
-   ],
-   "cons": [
-    "Chưa có ngày phát hành chính thức",
-    "Thường có DLC đắt"
-   ],
-   "tags": [
-    "Chiến thuật",
-    "Total War",
-    "Warhammer",
-    "Theo lượt",
-    "Thời gian thực"
-   ],
-   "viet": {
-    "has": false,
-    "score": 55,
-    "engine": "chưa rõ",
-    "note": "Lượng chữ lớn với lore nhưng game nặng và ra sau; nên theo dõi trước khi quyết định Việt hoá."
-   },
-   "news": []
-  },
-  {
-   "id": "homm3-remake",
-   "t": "Heroes of Might and Magic III Remake",
-   "g": "Chiến thuật",
-   "dev": "Ubisoft Chengdu & Ubisoft Shanghai",
-   "pub": "Ubisoft",
-   "rel": "2027",
-   "date": "2027",
-   "days": 253,
-   "exact": false,
-   "tba": false,
-   "ea": false,
-   "aaa": true,
-   "price": 0,
-   "disc": 0,
-   "old": null,
-   "free": false,
-   "critic": null,
-   "meta": null,
-   "steam": null,
-   "rc": null,
-   "hltb": 60,
-   "desc": "Bản làm lại 3D của tựa chiến thuật theo lượt kinh điển Heroes of Might and Magic III. Ubisoft mới nói sẽ ra mắt trong 2027, chưa có ngày cụ thể.",
-   "sum": "Remake giữ cốt lõi khám phá bản đồ, thu thập tài nguyên và chỉ huy anh hùng của HoMM3 trong đồ hoạ 3D. Phiên bản PC dự kiến có trên Steam, Epic và Ubisoft Connect. Core loop: đưa anh hùng đi khám phá bản đồ, chiếm mỏ và xây thành, tuyển quân rồi đánh trận theo lượt.",
-   "pros": [
-    "Đánh vào hoài niệm của game huyền thoại",
-    "Ubisoft đầu tư làm 3D"
-   ],
-   "cons": [
-    "Chưa có ngày và giá",
-    "Rủi ro lệch khỏi bản gốc"
-   ],
-   "tags": [
-    "Chiến thuật",
-    "Theo lượt",
-    "Fantasy",
-    "Remake",
-    "4X"
-   ],
-   "viet": {
-    "has": false,
-    "score": 65,
-    "engine": "chưa rõ",
-    "note": "Chữ vừa phải (nhiệm vụ, mô tả quái và phép) và nhiều người Việt yêu HoMM3 nên khá đáng Việt hoá."
-   },
-   "news": []
-  },
-  {
-   "id": "r6-tactics",
-   "t": "Tom Clancy's Rainbow Six Tactics",
-   "g": "Chiến thuật",
-   "dev": "Ubisoft",
-   "pub": "Ubisoft",
-   "rel": "2027",
-   "date": "2027",
-   "days": 253,
-   "exact": false,
-   "tba": false,
-   "ea": false,
-   "aaa": true,
-   "price": 0,
-   "disc": 0,
-   "old": null,
-   "free": false,
-   "critic": null,
-   "meta": null,
-   "steam": null,
-   "rc": null,
-   "hltb": 20,
-   "desc": "Rainbow Six đổi sang chiến thuật theo lượt chơi một mình, công bố tại Gamescom 2026. Có trên PC (Steam, Epic, Ubisoft Store) và console, dự kiến 2027.",
-   "sum": "Tựa này đưa đội đặc nhiệm Rainbow Six vào lối chơi chiến thuật theo lượt với kịch bản đơn. Nguồn tin chưa nêu rõ studio phát triển nên mục dev ghi Ubisoft. Core loop: lên kế hoạch đột kích, di chuyển và hành động từng lượt cho đội, phá cửa, hạ mục tiêu rồi hoàn thành nhiệm vụ.",
-   "pros": [
-    "Thương hiệu quen thuộc, hướng đi mới lạ",
-    "Có trên Steam"
-   ],
-   "cons": [
-    "Chưa có ngày chính thức",
-    "Chưa rõ quy mô nội dung"
-   ],
-   "tags": [
-    "Chiến thuật",
-    "Theo lượt",
-    "Chiến thuật đội",
-    "Một người chơi"
-   ],
-   "viet": {
-    "has": false,
-    "score": 50,
-    "engine": "chưa rõ",
-    "note": "Chữ chủ yếu là thoại và giao diện nhiệm vụ, quy mô vừa; cần chờ bản chính thức để đánh giá."
-   },
-   "news": []
-  },
-  {
-   "id": "got-war-westeros",
-   "t": "Game of Thrones: War for Westeros",
-   "g": "Chiến thuật",
-   "dev": "PlaySide Studios",
-   "pub": "PlaySide Studios",
-   "rel": "Đầu 2027",
-   "date": "Đầu 2027",
-   "days": 117,
-   "exact": false,
-   "tba": false,
-   "ea": false,
-   "aaa": false,
-   "price": 0,
-   "disc": 0,
-   "old": null,
-   "free": false,
-   "critic": null,
-   "meta": null,
-   "steam": null,
-   "rc": null,
-   "hltb": 40,
-   "desc": "Game chiến lược thời gian thực lấy bối cảnh Game of Thrones, vừa bị lùi sang đầu 2027. Có gameplay trailer đầu tiên tại Gamescom 2026.",
-   "sum": "Người chơi lãnh đạo một gia tộc tranh giành quyền kiểm soát Westeros bằng quân sự và chính trị. Nhà phát hành chưa được nguồn xác nhận rõ nên ghi PlaySide theo dev, và chưa xác nhận trang Steam. Core loop: chiếm lãnh thổ, phát triển kinh tế và quân đội, liên minh rồi giao chiến để vươn tới ngai sắt.",
-   "pros": [
-    "Bản quyền Game of Thrones hấp dẫn",
-    "Đã có gameplay trailer"
-   ],
-   "cons": [
-    "Bị lùi lịch",
-    "Studio chưa có tựa chiến lược tầm lớn"
-   ],
-   "tags": [
-    "Chiến thuật",
-    "RTS",
-    "Game of Thrones",
-    "Fantasy"
-   ],
-   "viet": {
-    "has": false,
-    "score": 60,
-    "engine": "chưa rõ",
-    "note": "Lore và hội thoại phong phú nên hợp Việt hoá, nhưng cần chờ bản chính thức."
-   },
-   "news": []
-  }
- ]
+  "updated": "2026-10-21",
+  "games": [
+    {
+      "id": "witcher4",
+      "t": "The Witcher 4",
+      "g": "RPG",
+      "dev": "CD Projekt Red",
+      "pub": "CD Projekt",
+      "rel": "Chưa công bố",
+      "date": "Chưa công bố",
+      "days": 430,
+      "exact": false,
+      "tba": true,
+      "ea": false,
+      "aaa": true,
+      "price": 0,
+      "disc": 0,
+      "old": null,
+      "free": false,
+      "critic": null,
+      "meta": null,
+      "steam": null,
+      "rc": null,
+      "hltb": 70,
+      "desc": "Ciri bước vào hành trình mới trong vai một witcher: săn quái vật theo hợp đồng và đưa ra những lựa chọn đầy hệ quả trong một thế giới mở rộng lớn.",
+      "sum": "RPG thế giới mở kể chuyện Ciri làm witcher. Core loop: nhận hợp đồng săn quái, điều tra, chọn hội thoại có hệ quả, chế thuốc và dầu kiếm trước mỗi trận. Chạy trên Unreal Engine 5.",
+      "pros": [
+        "Chiều sâu cốt truyện và lựa chọn",
+        "Thế giới mở dày đặc"
+      ],
+      "cons": [
+        "Chưa có gameplay dài",
+        "Yêu cầu máy mạnh"
+      ],
+      "tags": [
+        "Nhập vai",
+        "Thế giới mở",
+        "Cốt truyện hay",
+        "Lựa chọn quan trọng",
+        "Giả tưởng"
+      ],
+      "viet": {
+        "has": false,
+        "score": 95,
+        "engine": "Unreal 5",
+        "note": "Rất nhiều chữ, cốt truyện nặng — ưu tiên cao nếu không có tiếng Việt chính thức."
+      },
+      "news": [
+        {
+          "src": "GamingBolt · phỏng vấn Eurogamer",
+          "vi": true,
+          "url": "https://gamingbolt.com/the-witcher-4-developer-addresses-fan-reaction-to-ciri-as-the-protagonist",
+          "title": "The Witcher 4 Developer Addresses Fan Reaction to Ciri as the Protagonist",
+          "sum": "Giám đốc kịch bản Philipp Weber nói việc chọn Ciri làm nhân vật chính không phải ngẫu nhiên, vì đội \"bám theo lore\" của sách và các game trước. Ông thừa nhận người hâm mộ có những lo ngại \"rất chính đáng\", và trả lời bằng cách cho thấy game khi đã sẵn sàng. Bài này không nói rõ khuôn mặt của Ciri có đổi hay không."
+        }
+      ]
+    },
+    {
+      "id": "fable",
+      "t": "Fable",
+      "g": "RPG",
+      "dev": "Playground Games",
+      "pub": "Xbox Game Studios",
+      "rel": "23 Thg02, 2027",
+      "date": "23 Thg02, 2027",
+      "days": 125,
+      "exact": true,
+      "tba": false,
+      "ea": false,
+      "aaa": true,
+      "price": 0,
+      "disc": 0,
+      "old": null,
+      "free": false,
+      "critic": null,
+      "meta": null,
+      "steam": null,
+      "rc": null,
+      "hltb": 35,
+      "desc": "Fable trở lại xứ Albion với một cuộc phiêu lưu nhập vai mới, nơi mỗi lựa chọn tốt hay xấu đều thay đổi cách thế giới nhìn bạn.",
+      "sum": "Reboot dòng Fable: RPG hành động phiêu lưu xứ Albion với chất hài hước Anh quốc. Core loop: nhận nhiệm vụ, chiến đấu phối hợp cận chiến, bắn xa và phép, cùng hệ thống lựa chọn thiện/ác vốn là đặc trưng của series.",
+      "pros": [
+        "Thế giới cổ tích đặc trưng",
+        "Chiến đấu linh hoạt"
+      ],
+      "cons": [
+        "Chín năm phát triển, kỳ vọng rất cao"
+      ],
+      "tags": [
+        "Nhập vai hành động",
+        "Giả tưởng",
+        "Thế giới mở",
+        "Hài hước"
+      ],
+      "viet": {
+        "has": false,
+        "score": 80,
+        "engine": "ForzaTech",
+        "note": "Nhiều thoại hài hước, khó dịch cho đúng chất."
+      },
+      "news": [
+        {
+          "src": "PureXbox · tổng hợp báo chí (IGN, Eurogamer)",
+          "vi": true,
+          "url": "https://purexbox.com/news/2026/06/xboxs-30-minute-fable-gameplay-is-getting-great-feedback-aside-from-minor-concerns",
+          "title": "Xbox's 30-minute Fable gameplay is getting great feedback aside from minor concerns",
+          "sum": "Sau bản demo 30 phút, Eurogamer gọi phần chơi là \"thực sự tuyệt vời\" dù có nhiều điều cần lưu ý, và cho rằng cam kết 1.000 NPC có thể lãng mạn hoá là \"hơi tham vọng\". IGN thì \"khá bị thuyết phục\" bởi lớp mô phỏng đời sống, khen game \"đẹp tuyệt\" trên Xbox Series X và nói đây là game first-party Xbox họ mong chờ nhất."
+        },
+        {
+          "src": "PureXbox · phản ứng người chơi (bình luận dưới bài)",
+          "vi": true,
+          "url": "https://purexbox.com/news/2026/06/xboxs-30-minute-fable-gameplay-is-getting-great-feedback-aside-from-minor-concerns",
+          "title": "Player comments on the Fable demo",
+          "sum": "Người chơi khen chiều sâu hệ thống và cơ chế danh tiếng, gọi đây là \"luồng gió mới\" cho thể loại action-RPG. Phàn nàn chính: nhân vật NPC biểu cảm khuôn mặt cứng, lip-sync trong cutscene chưa khớp, và phần đánh nhau cuối demo hơi cứng. Có người lo lịch phát hành đụng với game đang chờ chơi trong backlog."
+        }
+      ]
+    },
+    {
+      "id": "p4r",
+      "t": "Persona 4 Revival",
+      "g": "RPG",
+      "dev": "Atlus",
+      "pub": "Atlus / Sega",
+      "rel": "18 Thg02, 2027",
+      "date": "18 Thg02, 2027",
+      "days": 120,
+      "exact": true,
+      "tba": false,
+      "ea": false,
+      "aaa": true,
+      "price": 0,
+      "disc": 0,
+      "old": null,
+      "free": false,
+      "critic": null,
+      "meta": null,
+      "steam": null,
+      "rc": null,
+      "hltb": 80,
+      "desc": "Làm lại Persona 4: nhóm học sinh ở thị trấn Inaba lao vào thế giới bên trong TV để phá giải chuỗi án mạng bí ẩn.",
+      "sum": "Làm lại JRPG trinh thám kinh điển. Core loop: ban ngày đi học và gắn kết Social Link, ban đêm vào mê cung trong TV đánh theo lượt. Quản lý lịch là trục chính.",
+      "pros": [
+        "Dàn nhân vật được yêu thích",
+        "Nhạc và phong cách nổi bật"
+      ],
+      "cons": [
+        "Nhịp chậm lúc đầu"
+      ],
+      "tags": [
+        "JRPG",
+        "Theo lượt",
+        "Anime",
+        "Trinh thám"
+      ],
+      "viet": {
+        "has": false,
+        "score": 90,
+        "engine": "khác",
+        "note": "JRPG = khối lượng chữ khổng lồ, cộng đồng Việt hoá rất quan tâm."
+      },
+      "news": []
+    },
+    {
+      "id": "ff7r",
+      "t": "Final Fantasy VII: Revelation",
+      "g": "RPG",
+      "dev": "Square Enix",
+      "pub": "Square Enix",
+      "rel": "8 Thg04, 2027",
+      "date": "8 Thg04, 2027",
+      "days": 169,
+      "exact": true,
+      "tba": false,
+      "ea": false,
+      "aaa": true,
+      "price": 0,
+      "disc": 0,
+      "old": null,
+      "free": false,
+      "critic": null,
+      "meta": null,
+      "steam": null,
+      "rc": null,
+      "hltb": 60,
+      "desc": "Chương cuối của bộ ba Final Fantasy VII Remake, khép lại hành trình của Cloud và đồng đội.",
+      "sum": "Chương kết bộ remake FF7. Core loop: chiến đấu action-ATB lai, chuyển đổi nhân vật, dùng Materia để tùy biến phép và kỹ năng.",
+      "pros": [
+        "Chiến đấu đã tay",
+        "Sản xuất hoành tráng"
+      ],
+      "cons": [
+        "Cần chơi phần trước để hiểu"
+      ],
+      "tags": [
+        "JRPG",
+        "Hành động",
+        "Cốt truyện hay",
+        "Khoa học viễn tưởng"
+      ],
+      "viet": {
+        "has": false,
+        "score": 85,
+        "engine": "Unreal",
+        "note": "Nhiều cutscene và thoại."
+      },
+      "news": []
+    },
+    {
+      "id": "sth",
+      "t": "Stranger Than Heaven",
+      "g": "Hành động",
+      "dev": "RGG Studio",
+      "pub": "Sega",
+      "rel": "15 Thg01, 2027",
+      "date": "15 Thg01, 2027",
+      "days": 86,
+      "exact": true,
+      "tba": false,
+      "ea": false,
+      "aaa": true,
+      "price": 0,
+      "disc": 0,
+      "old": null,
+      "free": false,
+      "critic": null,
+      "meta": null,
+      "steam": null,
+      "rc": null,
+      "hltb": 30,
+      "desc": "Tựa hành động phiêu lưu mới của RGG Studio, đội đứng sau dòng Yakuza / Like a Dragon.",
+      "sum": "Game mới của RGG Studio. Dự kiến theo công thức quen thuộc của studio: khám phá khu phố chi tiết, đánh tay đôi và rất nhiều nhiệm vụ phụ.",
+      "pros": [
+        "Studio kể chuyện có tay nghề",
+        "Thế giới chi tiết đặc trưng RGG"
+      ],
+      "cons": [
+        "Chưa công bố nhiều gameplay"
+      ],
+      "tags": [
+        "Hành động",
+        "Phiêu lưu",
+        "Cốt truyện hay",
+        "Tội phạm"
+      ],
+      "viet": {
+        "has": false,
+        "score": 86,
+        "engine": "chưa rõ",
+        "note": "Game của RGG thường rất nhiều thoại — khối lượng dịch lớn."
+      },
+      "news": [
+        {
+          "src": "NoobFeed · tóm tắt từ thông tin công bố",
+          "vi": true,
+          "url": "https://www.noobfeed.com/news/rgg-stranger-than-heaven-combat-music-mechanics",
+          "title": "RGG's 1915 Prequel Stranger Than Heaven Introduces Combat and Music Mechanics",
+          "sum": "Chiến đấu tập trung kiểu một chọi một: người chơi điều khiển riêng từng bên cơ thể của Makoto Daito, thay vì đánh đám đông hỗn loạn. Có đòn nặng nối chuỗi, đòn tích lực, và nhiều vũ khí như dao, katana, búa. Âm nhạc là một phần lớn của game chứ không phải mini-game: người chơi tuyển ca sĩ, thu âm từ địa điểm và sáng tác bài hát cho buổi diễn. Ngày phát hành được ghi là 15/01/2027."
+        }
+      ]
+    },
+    {
+      "id": "tomb",
+      "t": "Tomb Raider: Legacy of Atlantis",
+      "g": "Hành động",
+      "dev": "Crystal Dynamics, Flying Wild Hog",
+      "pub": "Crystal Dynamics",
+      "rel": "12 Thg02, 2027",
+      "date": "12 Thg02, 2027",
+      "days": 114,
+      "exact": true,
+      "tba": false,
+      "ea": false,
+      "aaa": true,
+      "price": 0,
+      "disc": 0,
+      "old": null,
+      "free": false,
+      "critic": null,
+      "meta": null,
+      "steam": null,
+      "rc": null,
+      "hltb": 22,
+      "desc": "Lara Croft trở lại với những hầm mộ cổ, câu đố môi trường và hành trình đi tìm bí mật của Atlantis.",
+      "sum": "Lara Croft trở lại với phiêu lưu giải đố hầm mộ. Core loop: leo trèo, giải đố môi trường, bắn súng và sinh tồn trong các khu di tích.",
+      "pros": [
+        "Giải đố và khám phá chắc tay",
+        "Lara được yêu thích"
+      ],
+      "cons": [
+        "Công thức quen thuộc"
+      ],
+      "tags": [
+        "Hành động phiêu lưu",
+        "Giải đố",
+        "Khám phá"
+      ],
+      "viet": {
+        "has": false,
+        "score": 78,
+        "engine": "chưa rõ",
+        "note": "Vừa phải, nhiều hướng dẫn và ghi chép."
+      },
+      "news": []
+    },
+    {
+      "id": "metro",
+      "t": "Metro 2039",
+      "g": "Hành động",
+      "dev": "4A Games",
+      "pub": "Deep Silver",
+      "rel": "4 Thg02, 2027",
+      "date": "4 Thg02, 2027",
+      "days": 106,
+      "exact": true,
+      "tba": false,
+      "ea": false,
+      "aaa": true,
+      "price": 0,
+      "disc": 0,
+      "old": null,
+      "free": false,
+      "critic": null,
+      "meta": null,
+      "steam": null,
+      "rc": null,
+      "hltb": 18,
+      "desc": "Phần mới của loạt Metro: bắn súng sinh tồn trong thế giới hậu tận thế ngột ngạt.",
+      "sum": "FPS sinh tồn hậu tận thế. Core loop: lén lút, quản lý đạn và mặt nạ phòng độc, bắn súng căng thẳng theo tuyến.",
+      "pros": [
+        "Không khí ngột ngạt đặc trưng",
+        "Kể chuyện tốt"
+      ],
+      "cons": [
+        "Tuyến tính"
+      ],
+      "tags": [
+        "FPS",
+        "Sinh tồn",
+        "Hậu tận thế",
+        "Không khí"
+      ],
+      "viet": {
+        "has": false,
+        "score": 80,
+        "engine": "4A Engine",
+        "note": "Thoại và ghi chú môi trường nhiều."
+      },
+      "news": []
+    },
+    {
+      "id": "expanse",
+      "t": "The Expanse: Osiris Reborn",
+      "g": "Hành động",
+      "dev": "Owlcat Games",
+      "pub": "Owlcat Games",
+      "rel": "Q2 2027",
+      "date": "Q2 2027",
+      "days": 255,
+      "exact": false,
+      "tba": false,
+      "ea": false,
+      "aaa": false,
+      "price": 0,
+      "disc": 0,
+      "old": null,
+      "free": false,
+      "critic": null,
+      "meta": null,
+      "steam": null,
+      "rc": null,
+      "hltb": 30,
+      "desc": "Nhập vai hành động trong vũ trụ The Expanse, do Owlcat Games phát triển.",
+      "sum": "Nhập vai hành động khoa học viễn tưởng. Dự kiến: bắn súng góc nhìn thứ ba, đội đồng hành và lựa chọn hội thoại.",
+      "pros": [
+        "Vũ trụ The Expanse giàu chất liệu",
+        "Owlcat mạnh về RPG nhiều lựa chọn"
+      ],
+      "cons": [
+        "Chưa có ngày phát hành chính thức"
+      ],
+      "tags": [
+        "Nhập vai hành động",
+        "Khoa học viễn tưởng",
+        "Bắn súng góc nhìn thứ ba"
+      ],
+      "viet": {
+        "has": false,
+        "score": 84,
+        "engine": "chưa rõ",
+        "note": "Owlcat nổi tiếng game nhiều chữ — đáng theo dõi để Việt hoá."
+      },
+      "news": []
+    },
+    {
+      "id": "re9",
+      "t": "Resident Evil: Veronica",
+      "g": "Kinh dị",
+      "dev": "Capcom",
+      "pub": "Capcom",
+      "rel": "2027",
+      "date": "2027",
+      "days": 300,
+      "exact": false,
+      "tba": false,
+      "ea": false,
+      "aaa": true,
+      "price": 0,
+      "disc": 0,
+      "old": null,
+      "free": false,
+      "critic": null,
+      "meta": null,
+      "steam": null,
+      "rc": null,
+      "hltb": 14,
+      "desc": "Tựa Resident Evil mới của Capcom: kinh dị sinh tồn với tài nguyên khan hiếm và những câu đố mở đường.",
+      "sum": "Kinh dị sinh tồn đặc trưng Capcom. Core loop: quản lý tài nguyên khan hiếm, giải đố mở khoá khu vực, sống sót trước kẻ thù.",
+      "pros": [
+        "Thương hiệu kinh dị hàng đầu",
+        "RE Engine đẹp"
+      ],
+      "cons": [
+        "Hù doạ có thể kén người chơi"
+      ],
+      "tags": [
+        "Kinh dị",
+        "Sinh tồn",
+        "Góc nhìn thứ ba"
+      ],
+      "viet": {
+        "has": false,
+        "score": 76,
+        "engine": "RE Engine",
+        "note": "Chữ vừa phải, chủ yếu ghi chú và hội thoại."
+      },
+      "news": [
+        {
+          "src": "CreativeBloq · tổng hợp tranh luận người hâm mộ",
+          "vi": true,
+          "url": "https://creativebloq.com/entertainment/gaming/resident-evil-veronica-trailer-revives-old-debates-among-fans",
+          "title": "Resident Evil Veronica trailer revives old debates among fans",
+          "sum": "Người hâm mộ tranh cãi về giọng điệu: giữ phong cách gothic kỳ quặc của bản gốc, hay chuyển sang phong cách tối và thực tế như RE2 và RE4 remake. Một số muốn Claire Redfield làm nhân vật chính xuyên suốt, vì bản gốc chuyển sang Chris ở phần cuối. Một số người nhớ bản gốc vì sự \"lạ và ngớ ngẩn\" của nó và lo bản làm lại sẽ mất điều đó. Lưu ý: nguồn khác mâu thuẫn về góc nhìn thứ nhất, nên chưa khẳng định."
+        }
+      ]
+    },
+    {
+      "id": "inzoi",
+      "t": "inZOI",
+      "g": "Mô phỏng",
+      "dev": "inZOI Studio",
+      "pub": "Krafton",
+      "rel": "Early Access",
+      "date": "28 Thg03, 2025",
+      "days": 0,
+      "exact": false,
+      "tba": false,
+      "ea": true,
+      "aaa": false,
+      "price": 690000,
+      "disc": 20,
+      "old": 860000,
+      "free": false,
+      "critic": 82,
+      "meta": 80,
+      "steam": 78,
+      "rc": 41000,
+      "hltb": 40,
+      "desc": "Mô phỏng cuộc sống đồ hoạ thực: tạo Zoi, xây nhà, theo đuổi sự nghiệp và quan sát cả thành phố vận hành.",
+      "sum": "Mô phỏng cuộc sống đồ hoạ thực. Core loop: tạo nhân vật, xây nhà, quản lý nhu cầu và sự nghiệp, điều khiển cả thành phố.",
+      "pros": [
+        "Đồ hoạ cực thực",
+        "Tùy biến sâu"
+      ],
+      "cons": [
+        "Còn Early Access, cần tối ưu"
+      ],
+      "tags": [
+        "Mô phỏng đời sống",
+        "Sandbox",
+        "Tùy biến nhân vật",
+        "Early Access"
+      ],
+      "viet": {
+        "has": false,
+        "score": 72,
+        "engine": "Unreal 5",
+        "note": "Chưa có tiếng Việt; giao diện và mô tả vật phẩm nhiều."
+      },
+      "news": []
+    },
+    {
+      "id": "enshroud",
+      "t": "Enshrouded",
+      "g": "Mô phỏng",
+      "dev": "Keen Games",
+      "pub": "Keen Games",
+      "rel": "Early Access",
+      "date": "24 Thg01, 2024",
+      "days": 0,
+      "exact": false,
+      "tba": false,
+      "ea": true,
+      "aaa": false,
+      "price": 520000,
+      "disc": 33,
+      "old": 780000,
+      "free": false,
+      "critic": 84,
+      "meta": 83,
+      "steam": 91,
+      "rc": 112000,
+      "hltb": 60,
+      "desc": "Sinh tồn, chế tạo và nhập vai co-op tới 16 người trong một thế giới voxel bị màn sương Shroud bao phủ.",
+      "sum": "Sinh tồn - xây dựng - nhập vai thế giới voxel. Core loop: khai thác, xây căn cứ tự do, chế đồ, đánh boss để mở khu vực mới.",
+      "pros": [
+        "Xây dựng tự do, tối ưu tốt",
+        "Co-op mượt"
+      ],
+      "cons": [
+        "Nội dung cuối game còn mỏng"
+      ],
+      "tags": [
+        "Sinh tồn",
+        "Xây căn cứ",
+        "Co-op",
+        "Early Access"
+      ],
+      "viet": {
+        "has": false,
+        "score": 68,
+        "engine": "khác",
+        "note": "Giao diện và mô tả vật phẩm nhiều."
+      },
+      "news": []
+    },
+    {
+      "id": "melvor",
+      "t": "Melvor Idle",
+      "g": "Idle",
+      "dev": "Games by Malcs",
+      "pub": "Jagex",
+      "rel": "Đã phát hành",
+      "date": "18 Thg11, 2021",
+      "days": 0,
+      "exact": false,
+      "tba": false,
+      "ea": false,
+      "aaa": false,
+      "price": 220000,
+      "disc": 40,
+      "old": 370000,
+      "free": false,
+      "critic": null,
+      "meta": null,
+      "steam": 95,
+      "rc": 21000,
+      "hltb": 600,
+      "desc": "Idle RPG lấy cảm hứng từ RuneScape: luyện hàng chục kỹ năng, chiến đấu, săn boss và tối ưu build để chạy nền.",
+      "sum": "Idle RPG lấy cảm hứng RuneScape. Core loop: chọn kỹ năng (câu cá, rèn, chiến đấu) rồi để chạy nền, nâng cấp dần, tối ưu build dài hạn.",
+      "pros": [
+        "Gây nghiện, chơi nền nhẹ",
+        "Nội dung khổng lồ"
+      ],
+      "cons": [
+        "Đồ hoạ tối giản"
+      ],
+      "tags": [
+        "Idle",
+        "Incremental",
+        "Nhập vai"
+      ],
+      "viet": {
+        "has": false,
+        "score": 60,
+        "engine": "Web/JS",
+        "note": "Nhiều text nhưng lặp theo mẫu — dễ dùng glossary."
+      },
+      "news": []
+    },
+    {
+      "id": "ngu",
+      "t": "NGU IDLE",
+      "g": "Idle",
+      "dev": "4G Games",
+      "pub": "4G Games",
+      "rel": "Đã phát hành",
+      "date": "1 Thg10, 2019",
+      "days": 0,
+      "exact": false,
+      "tba": false,
+      "ea": false,
+      "aaa": false,
+      "price": 0,
+      "disc": 0,
+      "old": null,
+      "free": true,
+      "critic": null,
+      "meta": null,
+      "steam": 95,
+      "rc": 10929,
+      "hltb": 400,
+      "desc": "Game idle hài hước với nhiều lớp cơ chế chồng lên nhau: đánh quái, phân bổ năng lượng và phép thuật để ngày càng mạnh.",
+      "sum": "Incremental hài hước, miễn phí. Core loop: đánh quái nhận vàng, phân bổ năng lượng/ma thuật vào các mục nâng cấp, mở tính năng mới liên tục.",
+      "pros": [
+        "Miễn phí, cực sâu",
+        "Hài hước"
+      ],
+      "cons": [
+        "UI cũ, hơi rối"
+      ],
+      "tags": [
+        "Incremental",
+        "Miễn phí",
+        "Clicker",
+        "Hài hước"
+      ],
+      "viet": {
+        "has": false,
+        "score": 55,
+        "engine": "Unity",
+        "note": "Thuật ngữ game nhiều, cần glossary chuẩn."
+      },
+      "news": []
+    },
+    {
+      "id": "leaf",
+      "t": "Leaf Blower Revolution",
+      "g": "Idle",
+      "dev": "Sandfish",
+      "pub": "Sandfish",
+      "rel": "Đã phát hành",
+      "date": "4 Thg12, 2020",
+      "days": 0,
+      "exact": false,
+      "tba": false,
+      "ea": false,
+      "aaa": false,
+      "price": 160000,
+      "disc": 50,
+      "old": 320000,
+      "free": false,
+      "critic": null,
+      "meta": null,
+      "steam": 94,
+      "rc": 34000,
+      "hltb": 300,
+      "desc": "Thổi lá, kiếm tiền, nâng cấp máy thổi và mở dần những vùng đất ngày càng kỳ quặc.",
+      "sum": "Idle thổi lá gom tiền. Core loop: thổi lá kiếm xu, mua nâng cấp và prestige để nhân mạnh, mở nhiều lớp cơ chế mới.",
+      "pros": [
+        "Dễ vào, khó bỏ",
+        "Giá rẻ, hay giảm sâu"
+      ],
+      "cons": [
+        "Lặp lại nếu cày lâu"
+      ],
+      "tags": [
+        "Idle",
+        "Clicker",
+        "Thư giãn"
+      ],
+      "viet": {
+        "has": false,
+        "score": 50,
+        "engine": "Unity",
+        "note": "Ít chữ, dễ Việt hoá."
+      },
+      "news": []
+    },
+    {
+      "id": "cod-mw4",
+      "t": "Call of Duty: Modern Warfare 4",
+      "g": "Hành động",
+      "dev": "Infinity Ward",
+      "pub": "Activision",
+      "rel": "23 Thg10, 2026",
+      "date": "23 Thg10, 2026",
+      "days": 2,
+      "exact": true,
+      "tba": false,
+      "ea": false,
+      "aaa": true,
+      "price": 0,
+      "disc": 0,
+      "old": null,
+      "free": false,
+      "critic": null,
+      "meta": null,
+      "steam": null,
+      "rc": null,
+      "hltb": 7,
+      "desc": "Phần mới của series bắn súng quân sự Modern Warfare do Infinity Ward phát triển, ra mắt trên PC và console.",
+      "sum": "Chiến dịch đơn kèm đa người chơi và chế độ phụ quy mô lớn, tiếp tục lối chơi bắn súng góc nhìn thứ nhất nhịp độ nhanh của series. Core loop: tham gia trận, bắn hạ đối thủ, nhận kinh nghiệm để mở khoá vũ khí và phụ kiện rồi vào trận tiếp.",
+      "pros": [
+        "Bắn súng mượt, nhịp độ nhanh",
+        "Có chiến dịch đơn và nhiều chế độ online"
+      ],
+      "cons": [
+        "Dễ gặp hack và vấn đề cân bằng",
+        "Dung lượng cài đặt lớn"
+      ],
+      "tags": [
+        "Hành động",
+        "Bắn súng",
+        "FPS",
+        "Nhiều người chơi",
+        "Chiến tranh"
+      ],
+      "viet": {
+        "has": false,
+        "score": 10,
+        "engine": "IW engine (độc quyền)",
+        "note": "Chủ yếu là multiplayer, lượng chữ cốt truyện ít, file mã hoá chống hack nên khó Việt hoá."
+      },
+      "news": []
+    },
+    {
+      "id": "phantom-blade-zero",
+      "t": "Phantom Blade Zero",
+      "g": "Hành động",
+      "dev": "S-GAME",
+      "pub": "S-GAME",
+      "rel": "29 Thg10, 2026",
+      "date": "29 Thg10, 2026",
+      "days": 8,
+      "exact": true,
+      "tba": false,
+      "ea": false,
+      "aaa": true,
+      "price": 0,
+      "disc": 0,
+      "old": null,
+      "free": false,
+      "critic": null,
+      "meta": null,
+      "steam": null,
+      "rc": null,
+      "hltb": 20,
+      "desc": "Game hành động kiếm hiệp chiến đấu nhanh, đậm chất võ hiệp Trung Hoa pha màu sắc kỳ ảo.",
+      "sum": "Nhân vật chính chiến đấu cận chiến kỹ thuật cao với đỡ đòn, né và combo kiếm, có bối cảnh u tối giàu phong cách. Core loop: khám phá khu vực, đánh quái và trùm, nâng cấp chiêu thức rồi tiếp tục đi sâu vào cốt truyện.",
+      "pros": [
+        "Chiến đấu nhanh, đã mắt",
+        "Phong cách nghệ thuật độc đáo"
+      ],
+      "cons": [
+        "Độ khó cao",
+        "Cần cấu hình khá mạnh"
+      ],
+      "tags": [
+        "Hành động",
+        "Kiếm hiệp",
+        "Chặt chém",
+        "Nhập vai hành động",
+        "Một người chơi"
+      ],
+      "viet": {
+        "has": false,
+        "score": 55,
+        "engine": "Unreal Engine",
+        "note": "Game cốt truyện, có thoại và văn bản nhiều vừa phải, cộng đồng Việt quan tâm thể loại võ hiệp."
+      },
+      "news": []
+    },
+    {
+      "id": "attack-on-titan-3",
+      "t": "Attack on Titan 3",
+      "g": "Hành động",
+      "dev": "Omega Force",
+      "pub": "Koei Tecmo",
+      "rel": "10 Thg12, 2026",
+      "date": "10 Thg12, 2026",
+      "days": 50,
+      "exact": true,
+      "tba": false,
+      "ea": false,
+      "aaa": true,
+      "price": 0,
+      "disc": 0,
+      "old": null,
+      "free": false,
+      "critic": null,
+      "meta": null,
+      "steam": null,
+      "rc": null,
+      "hltb": 15,
+      "desc": "Phần tiếp theo của game hành động dựa trên anime Attack on Titan, dùng thiết bị cơ động 3D để săn Titan.",
+      "sum": "Người chơi bay lượn bằng thiết bị cơ động và chém vào điểm yếu của Titan khổng lồ, theo cốt truyện anime. Core loop: nhận nhiệm vụ, di chuyển trên không, hạ Titan, nhận phần thưởng để nâng cấp trang bị và nhân vật.",
+      "pros": [
+        "Cảm giác di chuyển 3D ấn tượng",
+        "Bám sát cốt truyện anime"
+      ],
+      "cons": [
+        "Nhiệm vụ có thể lặp lại",
+        "Phụ thuộc vào IP anime"
+      ],
+      "tags": [
+        "Hành động",
+        "Anime",
+        "Co-op",
+        "Chặt chém",
+        "Nhập vai hành động"
+      ],
+      "viet": {
+        "has": false,
+        "score": 60,
+        "engine": "Chưa rõ",
+        "note": "Nhiều thoại và cốt truyện từ anime, nhóm fan Việt đông nên nhu cầu Việt hoá cao."
+      },
+      "news": []
+    },
+    {
+      "id": "ananta",
+      "t": "Ananta",
+      "g": "Hành động",
+      "dev": "Naked Rain",
+      "pub": "NetEase Games",
+      "rel": "15 Thg01, 2027",
+      "date": "15 Thg01, 2027",
+      "days": 86,
+      "exact": true,
+      "tba": false,
+      "ea": false,
+      "aaa": true,
+      "price": 0,
+      "disc": 0,
+      "old": null,
+      "free": false,
+      "critic": null,
+      "meta": null,
+      "steam": null,
+      "rc": null,
+      "hltb": 40,
+      "desc": "Game thế giới mở đô thị phong cách anime với hành động và khám phá thành phố, có bản PC trên Steam.",
+      "sum": "Người chơi tự do khám phá đô thị rộng lớn, tham gia chiến đấu, nhiệm vụ và hoạt động phụ. Core loop: khám phá thành phố, làm nhiệm vụ và chiến đấu, nhận tài nguyên để phát triển nhân vật.",
+      "pros": [
+        "Thế giới mở đô thị độc đáo",
+        "Đồ hoạ anime hiện đại"
+      ],
+      "cons": [
+        "Có thể có hệ thống gacha và mua trong game",
+        "Cần kết nối online"
+      ],
+      "tags": [
+        "Hành động",
+        "Thế giới mở",
+        "Anime",
+        "Nhập vai",
+        "Free-to-play"
+      ],
+      "viet": {
+        "has": false,
+        "score": 40,
+        "engine": "chưa rõ",
+        "note": "Dịch vụ online có nhiều chữ nhưng cập nhật thường xuyên làm Việt hoá khó duy trì."
+      },
+      "news": []
+    },
+    {
+      "id": "wo-long-2",
+      "t": "Wo Long: Wings of Ember",
+      "g": "Hành động",
+      "dev": "Team NINJA",
+      "pub": "Koei Tecmo",
+      "rel": "4 Thg03, 2027",
+      "date": "4 Thg03, 2027",
+      "days": 134,
+      "exact": true,
+      "tba": false,
+      "ea": false,
+      "aaa": true,
+      "price": 0,
+      "disc": 0,
+      "old": null,
+      "free": false,
+      "critic": null,
+      "meta": null,
+      "steam": null,
+      "rc": null,
+      "hltb": 25,
+      "desc": "Phần tiếp theo của soulslike Wo Long lấy bối cảnh Tam Quốc huyền ảo, ra mắt trên PC Steam.",
+      "sum": "Hệ thống chiến đấu dựa trên đỡ đòn và hồi phục khí lực, kết hợp phép thuật. Core loop: khám phá màn chơi, đánh quái và trùm bằng đỡ đòn, tích luỹ khí thế để mạnh hơn rồi vượt thử thách khó hơn.",
+      "pros": [
+        "Chiến đấu nhịp độ nhanh",
+        "Bối cảnh Tam Quốc quen thuộc"
+      ],
+      "cons": [
+        "Độ khó cao",
+        "Có thể gặp lỗi kỹ thuật ở ngày đầu"
+      ],
+      "tags": [
+        "Hành động",
+        "Soulslike",
+        "Tam Quốc",
+        "Khó",
+        "Một người chơi"
+      ],
+      "viet": {
+        "has": false,
+        "score": 55,
+        "engine": "Chưa rõ",
+        "note": "Cốt truyện Tam Quốc có nhiều văn bản, người Việt quen thuộc bối cảnh nên đáng Việt hoá."
+      },
+      "news": []
+    },
+    {
+      "id": "trine-6",
+      "t": "Trine 6: Together in Time",
+      "g": "Hành động",
+      "dev": "Frozenbyte",
+      "pub": "Cooldown Games",
+      "rel": "4 Thg03, 2027",
+      "date": "4 Thg03, 2027",
+      "days": 134,
+      "exact": true,
+      "tba": false,
+      "ea": false,
+      "aaa": false,
+      "price": 0,
+      "disc": 0,
+      "old": null,
+      "free": false,
+      "critic": null,
+      "meta": null,
+      "steam": null,
+      "rc": null,
+      "hltb": 10,
+      "desc": "Phần mới của series platformer giải đố Trine, hợp tác ba nhân vật trong thế giới cổ tích.",
+      "sum": "Kết hợp nhảy platform, chiến đấu và giải đố vật lý với ba nhân vật có kỹ năng riêng, chơi một mình hoặc co-op. Core loop: đi qua màn chơi, dùng kỹ năng từng nhân vật để giải đố và đánh quái, thu thập vật phẩm để mở thêm kỹ năng.",
+      "pros": [
+        "Đồ hoạ cổ tích đẹp mắt",
+        "Co-op vui nhộn"
+      ],
+      "cons": [
+        "Cốt truyện đơn giản",
+        "Thời lượng ngắn"
+      ],
+      "tags": [
+        "Hành động",
+        "Platformer",
+        "Giải đố",
+        "Co-op",
+        "Cổ tích"
+      ],
+      "viet": {
+        "has": false,
+        "score": 50,
+        "engine": "Chưa rõ",
+        "note": "Lượng chữ vừa phải, thể loại dễ tiếp cận nên Việt hoá khả thi."
+      },
+      "news": []
+    },
+    {
+      "id": "gundam-rogue-orbit",
+      "t": "Gundam Rogue Orbit",
+      "g": "Hành động",
+      "dev": "Bandai Namco Studios",
+      "pub": "Bandai Namco Entertainment",
+      "rel": "5 Thg03, 2027",
+      "date": "5 Thg03, 2027",
+      "days": 135,
+      "exact": true,
+      "tba": false,
+      "ea": false,
+      "aaa": true,
+      "price": 0,
+      "disc": 0,
+      "old": null,
+      "free": false,
+      "critic": null,
+      "meta": null,
+      "steam": null,
+      "rc": null,
+      "hltb": 15,
+      "desc": "Game hành động Gundam mới của Bandai Namco, ra mắt trên PC Steam và console.",
+      "sum": "Điều khiển mobile suit chiến đấu trong không gian và trên mặt đất với nhiều loại vũ khí. Core loop: nhận nhiệm vụ, chiến đấu với đối thủ, thu thập tài nguyên để nâng cấp và tuỳ chỉnh mobile suit.",
+      "pros": [
+        "IP Gundam được yêu thích",
+        "Đồ hoạ mecha ấn tượng"
+      ],
+      "cons": [
+        "Chi tiết gameplay còn ít",
+        "Có thể có DLC nhân vật"
+      ],
+      "tags": [
+        "Hành động",
+        "Mecha",
+        "Gundam",
+        "Anime",
+        "Khoa học viễn tưởng"
+      ],
+      "viet": {
+        "has": false,
+        "score": 45,
+        "engine": "Chưa rõ",
+        "note": "Fan Gundam Việt Nam đông, nhưng lượng chữ chưa rõ."
+      },
+      "news": []
+    },
+    {
+      "id": "squadron-42",
+      "t": "Squadron 42",
+      "g": "Hành động",
+      "dev": "Cloud Imperium Games",
+      "pub": "Cloud Imperium Games",
+      "rel": "Q2 2027",
+      "date": "Q2 2027",
+      "days": 206,
+      "exact": false,
+      "tba": false,
+      "ea": false,
+      "aaa": true,
+      "price": 0,
+      "disc": 0,
+      "old": null,
+      "free": false,
+      "critic": null,
+      "meta": null,
+      "steam": null,
+      "rc": null,
+      "hltb": 20,
+      "desc": "Chiến dịch đơn bắn súng không gian trong vũ trụ Star Citizen với dàn diễn viên Hollywood.",
+      "sum": "Người chơi đóng vai phi công trong hạm đội quân đội UEE, tham gia các nhiệm vụ trên tàu vũ trụ và chiến đấu bộ binh. Core loop: nhận nhiệm vụ, lái tàu hoặc chiến đấu, tương tác với đồng đội để tiến triển cốt truyện.",
+      "pros": [
+        "Quy mô và đồ hoạ đồ sộ",
+        "Dàn diễn viên đình đám"
+      ],
+      "cons": [
+        "Đã trễ hẹn nhiều lần",
+        "Cấu hình đòi hỏi rất cao"
+      ],
+      "tags": [
+        "Hành động",
+        "Bắn súng",
+        "Không gian",
+        "Một người chơi",
+        "Khoa học viễn tưởng"
+      ],
+      "viet": {
+        "has": false,
+        "score": 55,
+        "engine": "Star Engine (CryEngine tuỳ biến)",
+        "note": "Chiến dịch có nhiều thoại và cốt truyện, đáng Việt hoá nếu phát hành đúng hạn."
+      },
+      "news": []
+    },
+    {
+      "id": "godzilla-dam-remastered",
+      "t": "Godzilla: Destroy All Monsters Melee Remastered",
+      "g": "Hành động",
+      "dev": "Pipeworks Studios",
+      "pub": "Atari",
+      "rel": "3 Thg11, 2026",
+      "date": "3 Thg11, 2026",
+      "days": 13,
+      "exact": true,
+      "tba": false,
+      "ea": false,
+      "aaa": false,
+      "price": 0,
+      "disc": 0,
+      "old": null,
+      "free": false,
+      "critic": null,
+      "meta": null,
+      "steam": null,
+      "rc": null,
+      "hltb": 6,
+      "desc": "Bản làm lại của game đối kháng quái vật khổng lồ năm 2002 với Godzilla và nhiều quái vật khác.",
+      "sum": "Người chơi điều khiển quái vật đối đầu trong các thành phố có thể phá huỷ, chiến thắng bằng đòn tấn công đặc trưng. Core loop: chọn quái vật, phá thành phố và đánh bại đối thủ, mở khoá thêm nhân vật và màn chơi.",
+      "pros": [
+        "Hoài niệm cho fan Godzilla",
+        "Chơi nhiều người cùng máy"
+      ],
+      "cons": [
+        "Lối chơi đơn giản",
+        "Chiều sâu hạn chế"
+      ],
+      "tags": [
+        "Hành động",
+        "Đối kháng",
+        "Godzilla",
+        "Quái vật",
+        "Nhiều người chơi"
+      ],
+      "viet": {
+        "has": false,
+        "score": 25,
+        "engine": "Chưa rõ",
+        "note": "Ít chữ, thể loại đối kháng nên nhu cầu Việt hoá thấp."
+      },
+      "news": []
+    },
+    {
+      "id": "death-at-fleming-manor",
+      "t": "Death at Fleming Manor",
+      "g": "Kinh dị",
+      "dev": "SUPERTHUMb",
+      "pub": "Chưa rõ",
+      "rel": "3 Thg11, 2026",
+      "date": "3 Thg11, 2026",
+      "days": 13,
+      "exact": true,
+      "tba": false,
+      "ea": false,
+      "aaa": false,
+      "price": 0,
+      "disc": 0,
+      "old": null,
+      "free": false,
+      "critic": null,
+      "meta": null,
+      "steam": null,
+      "rc": null,
+      "hltb": 12,
+      "desc": "Game điều tra kinh dị đặt ở nước Anh năm 1959, bạn vào vai pháp y đi xác định từng cái chết ở một dinh thự dưỡng bệnh là tai nạn, tự sát hay giết người.",
+      "sum": "Bạn là Edgar Whitmore, pháp y mới nhậm chức, điều tra chuỗi cái chết đáng ngờ tại Fleming Manor. Mỗi vụ bạn phải kết luận và ghi vào giấy chứng tử, game không báo đúng sai và các kết luận quyết định bạn đến một trong bốn cái kết. Core loop: khám hiện trường, thu thập manh mối, giải đố, kết luận nguyên nhân tử vong rồi chuyển sang vụ kế tiếp.",
+      "pros": [
+        "Cơ chế phá án khác lạ, không bị dắt tay",
+        "Bối cảnh Anh 1959 giàu không khí"
+      ],
+      "cons": [
+        "Nhịp chậm, phù hợp người thích suy luận",
+        "Chưa rõ nhà phát hành, studio nhỏ"
+      ],
+      "tags": [
+        "Kinh dị",
+        "Điều tra",
+        "Giải đố",
+        "Cốt truyện",
+        "Không khí"
+      ],
+      "viet": {
+        "has": false,
+        "score": 80,
+        "engine": "chưa rõ",
+        "note": "Rất nhiều hội thoại và hồ sơ cần đọc để suy luận nên chữ nhiều, rất đáng Việt hoá."
+      },
+      "news": []
+    },
+    {
+      "id": "brokenlore-ascend",
+      "t": "BrokenLore: Ascend",
+      "g": "Kinh dị",
+      "dev": "Serafini Productions",
+      "pub": "Chưa rõ",
+      "rel": "7 Thg01, 2027",
+      "date": "7 Thg01, 2027",
+      "days": 78,
+      "exact": true,
+      "tba": false,
+      "ea": false,
+      "aaa": false,
+      "price": 0,
+      "disc": 0,
+      "old": null,
+      "free": false,
+      "critic": null,
+      "meta": null,
+      "steam": null,
+      "rc": null,
+      "hltb": 6,
+      "desc": "Kinh dị tâm lý góc nhìn thứ nhất về hai người leo nóc nhà cố chinh phục toà tháp bí ẩn ở Nhật và bị một thực thể ma quái đeo bám.",
+      "sum": "Ren và Yui leo đêm lên tháp Elysium để quay nội dung cho kênh của họ, nhưng Rokurokubi xuất hiện và hiện thực dần méo mó khi lên cao. Game xoay quanh nỗi sợ bị lãng quên và ám ảnh danh tiếng. Core loop: leo từng tầng tháp, vượt chướng ngại, khám phá hiện tượng siêu nhiên và sống sót để lên đỉnh.",
+      "pros": [
+        "Bối cảnh leo toà nhà độc đáo",
+        "Có demo trên Steam để thử trước"
+      ],
+      "cons": [
+        "Chưa rõ nhà phát hành",
+        "Studio nhỏ, độ dài còn là ẩn số"
+      ],
+      "tags": [
+        "Kinh dị",
+        "Tâm lý",
+        "Góc nhìn thứ nhất",
+        "Nhật Bản",
+        "Không khí"
+      ],
+      "viet": {
+        "has": false,
+        "score": 60,
+        "engine": "chưa rõ",
+        "note": "Thiên về không khí và cốt truyện, lượng chữ vừa phải, đáng Việt hoá nếu có nhiều thoại và ghi chú."
+      },
+      "news": []
+    },
+    {
+      "id": "state-of-decay-3",
+      "t": "State of Decay 3",
+      "g": "Kinh dị",
+      "dev": "Undead Labs",
+      "pub": "Xbox Game Studios",
+      "rel": "2027",
+      "date": "2027",
+      "days": 253,
+      "exact": false,
+      "tba": false,
+      "ea": false,
+      "aaa": true,
+      "price": 0,
+      "disc": 0,
+      "old": null,
+      "free": false,
+      "critic": null,
+      "meta": null,
+      "steam": null,
+      "rc": null,
+      "hltb": 40,
+      "desc": "Phần tiếp theo của series zombie sinh tồn thế giới mở, quản lý cộng đồng người sống sót và co-op tối đa 4 người.",
+      "sum": "Bạn dẫn dắt một nhóm sống sót trong thế giới hậu tận thế, xây dựng căn cứ, tìm tài nguyên và chống lại zombie đang tiến hoá. Có permadeath nên mỗi rủi ro đều có giá. Core loop: ra ngoài lục tài nguyên, chiến đấu với zombie, mang về nâng cấp căn cứ và chăm sóc nhân vật sống sót.",
+      "pros": [
+        "Co-op 4 người trong thế giới chung",
+        "Permadeath tạo căng thẳng"
+      ],
+      "cons": [
+        "Chỉ có cửa sổ 2027, chưa có ngày cụ thể",
+        "Studio từng bị đồn về rủi ro đóng cửa, lịch có thể dời"
+      ],
+      "tags": [
+        "Kinh dị",
+        "Zombie",
+        "Sinh tồn",
+        "Co-op",
+        "Thế giới mở"
+      ],
+      "viet": {
+        "has": false,
+        "score": 55,
+        "engine": "Unreal Engine",
+        "note": "Game sinh tồn thiên về hệ thống, chữ vừa phải nhưng có nhiều nhiệm vụ và thoại nhân vật."
+      },
+      "news": []
+    },
+    {
+      "id": "ill",
+      "t": "ILL",
+      "g": "Kinh dị",
+      "dev": "Team Clout",
+      "pub": "Chưa công bố (hợp tác Mundfish Powerhouse)",
+      "rel": "2027",
+      "date": "2027",
+      "days": 253,
+      "exact": false,
+      "tba": false,
+      "ea": false,
+      "aaa": false,
+      "price": 0,
+      "disc": 0,
+      "old": null,
+      "free": false,
+      "critic": null,
+      "meta": null,
+      "steam": null,
+      "rc": null,
+      "hltb": 10,
+      "desc": "Kinh dị sinh tồn góc nhìn thứ nhất rất máu me, đặt trong cơ sở nghiên cứu nơi các sinh vật Aberration lan tràn.",
+      "sum": "Một thứ ác độc thức tỉnh trong cơ sở nghiên cứu khổng lồ và lũ Aberration tràn ra. Tài nguyên khan hiếm, đạn ít nên phải dùng cận chiến và đồ vật xung quanh. Core loop: thám hiểm cơ sở, tiết kiệm đạn, chiến đấu cận chiến với quái vật và lần ra nguyên nhân thảm hoạ.",
+      "pros": [
+        "Phong cách gore, trình bày điện ảnh",
+        "Wishlist cao, được chờ đợi nhiều"
+      ],
+      "cons": [
+        "Chỉ có cửa sổ 2027",
+        "Chưa công bố nhà phát hành chính thức"
+      ],
+      "tags": [
+        "Kinh dị",
+        "Sinh tồn",
+        "Gore",
+        "Góc nhìn thứ nhất",
+        "Cận chiến"
+      ],
+      "viet": {
+        "has": false,
+        "score": 55,
+        "engine": "Unreal Engine",
+        "note": "Chưa rõ lượng chữ, có thể có nhiều ghi chú và tài liệu trong cơ sở nghiên cứu."
+      },
+      "news": []
+    },
+    {
+      "id": "cookie-clicker",
+      "t": "Cookie Clicker",
+      "g": "Idle",
+      "dev": "Orteil",
+      "pub": "Playsaurus",
+      "rel": "Đã phát hành",
+      "date": "1 Thg09, 2021",
+      "days": 0,
+      "exact": false,
+      "tba": false,
+      "ea": false,
+      "aaa": false,
+      "price": 125000,
+      "disc": 0,
+      "old": null,
+      "free": false,
+      "critic": null,
+      "meta": null,
+      "steam": 96,
+      "rc": 88047,
+      "hltb": 100,
+      "desc": "Bấm bánh quy khổng lồ rồi xây cả đế chế sản xuất bánh với bà già, nông trại, nhà máy và hơn thế nữa. Cha đẻ của thể loại clicker hiện đại.",
+      "sum": "Bản Steam có thêm nhạc nền và thành tựu Steam, nội dung rất sâu với nâng cấp, huy hiệu và prestige. Phù hợp để mở nền chạy ngày này qua ngày khác. Core loop: bấm bánh, mua công trình tự động, mở nâng cấp, rồi prestige để nhân hệ số.",
+      "pros": [
+        "Nội dung sâu, nhiều bí mật",
+        "Dễ vào, hợp chơi nền"
+      ],
+      "cons": [
+        "Mốc cuối game rất dài",
+        "Giao diện hơi rối khi nhiều tính năng"
+      ],
+      "tags": [
+        "Idle",
+        "Incremental",
+        "Clicker",
+        "Thư giãn",
+        "Prestige"
+      ],
+      "viet": {
+        "has": false,
+        "score": 55,
+        "engine": "HTML5/JavaScript",
+        "note": "Lượng chữ vừa phải nhưng nhiều chuỗi hài hước, lượng người chơi VN lớn nên đáng cân nhắc; giá VN quy đổi thô từ 4,99 EUR."
+      },
+      "news": []
+    },
+    {
+      "id": "rustys-retirement",
+      "t": "Rusty's Retirement",
+      "g": "Idle",
+      "dev": "Mister Morris Games",
+      "pub": "Mister Morris Games",
+      "rel": "Đã phát hành",
+      "date": "26 Thg04, 2024",
+      "days": 0,
+      "exact": false,
+      "tba": false,
+      "ea": false,
+      "aaa": false,
+      "price": 61000,
+      "disc": 40,
+      "old": 102000,
+      "free": false,
+      "critic": null,
+      "meta": null,
+      "steam": 97,
+      "rc": 14917,
+      "hltb": 60,
+      "desc": "Game nông trại nghỉ hưu: nhân vật tự làm việc theo kịch bản bạn lập sẵn, bạn tối ưu rồi ngồi nhìn thôn quê lớn dần.",
+      "sum": "Hình ảnh pixel ấm áp, nhịp chơi nhàn nhã, tự động hóa là trọng tâm thay vì bấm liên tục. Được đánh giá rất cao nhờ độ thư giãn. Core loop: giao việc tự động, thu hoạch tài nguyên, mở khóa khu vực và công cụ mới để mở rộng trang trại.",
+      "pros": [
+        "Thư giãn, đồ họa dễ thương",
+        "Tự động hóa thỏa mãn"
+      ],
+      "cons": [
+        "Về sau nhịp chậm",
+        "Chưa có tiếng Việt"
+      ],
+      "tags": [
+        "Idle",
+        "Nông trại",
+        "Thư giãn",
+        "Tự động hóa",
+        "Pixel"
+      ],
+      "viet": {
+        "has": false,
+        "score": 70,
+        "engine": "chưa rõ",
+        "note": "Điểm đánh giá 97% và ít chữ nên rất đáng Việt hoá; giá Steam VN hiện giảm 40% (61.000đ), giá gốc 102.000đ."
+      },
+      "news": []
+    },
+    {
+      "id": "bongo-cat",
+      "t": "Bongo Cat",
+      "g": "Idle",
+      "dev": "Irox Games",
+      "pub": "Irox Games",
+      "rel": "Đã phát hành",
+      "date": "5 Thg03, 2025",
+      "days": 0,
+      "exact": false,
+      "tba": false,
+      "ea": false,
+      "aaa": false,
+      "price": 0,
+      "disc": 0,
+      "old": null,
+      "free": true,
+      "critic": null,
+      "meta": null,
+      "steam": 97,
+      "rc": 112746,
+      "hltb": 50,
+      "desc": "Chú mèo gõ bàn phím và bấm chuột theo bạn ngay trên màn hình, kèm hệ thống sưu tầm và nâng cấp kiểu idle. Miễn phí.",
+      "sum": "Vừa là vật trang trí desktop vừa có lớp idle sưu tầm vật phẩm, cực nhẹ để treo máy. Số đánh giá rất lớn nhờ lượng người dùng streamer. Core loop: gõ phím hoặc để mèo tự chạy, nhận tiền thưởng, mở khóa skin và vật phẩm mới.",
+      "pros": [
+        "Miễn phí, rất nhẹ",
+        "Cộng đồng streamer lớn"
+      ],
+      "cons": [
+        "Chiều sâu game hạn chế",
+        "DLC skin bán riêng"
+      ],
+      "tags": [
+        "Idle",
+        "Clicker",
+        "Thư giãn",
+        "Miễn phí",
+        "Ứng dụng desktop"
+      ],
+      "viet": {
+        "has": false,
+        "score": 65,
+        "engine": "chưa rõ",
+        "note": "Rất đông người dùng, ít chữ nên Việt hoá ít công; nhưng giá trị nằm ở sưu tầm hơn là cốt truyện."
+      },
+      "news": []
+    },
+    {
+      "id": "idle-slayer",
+      "t": "Idle Slayer",
+      "g": "Idle",
+      "dev": "Pablo Leban",
+      "pub": "Pablo Leban",
+      "rel": "Đã phát hành",
+      "date": "21 Thg12, 2020",
+      "days": 0,
+      "exact": false,
+      "tba": false,
+      "ea": false,
+      "aaa": false,
+      "price": 0,
+      "disc": 0,
+      "old": null,
+      "free": true,
+      "critic": null,
+      "meta": null,
+      "steam": 84,
+      "rc": 10977,
+      "hltb": 60,
+      "desc": "Platformer chạy tự động đánh quái kết hợp nâng cấp kiểu idle, bạn nhảy, chém và thu coin liên tục. Miễn phí.",
+      "sum": "Pha trộn runner 2D với tiến triển idle nên có cảm giác chủ động hơn clicker thuần. Có hệ thống ascension, vũ khí, nhiệm vụ. Core loop: chạy, nhảy, chém quái, gom coin, mua nâng cấp, rồi ascend để mạnh hơn.",
+      "pros": [
+        "Có yếu tố hành động",
+        "Hỗ trợ tiếng Việt"
+      ],
+      "cons": [
+        "Một số đánh giá chê quảng cáo kiểu mobile",
+        "Cân bằng hơi lệch ở cuối"
+      ],
+      "tags": [
+        "Idle",
+        "Platformer",
+        "Hành động",
+        "Miễn phí",
+        "Pixel"
+      ],
+      "viet": {
+        "has": true,
+        "score": 30,
+        "engine": "Unity",
+        "note": "Steam đã hỗ trợ tiếng Việt nên không cần Việt hoá thêm."
+      },
+      "news": []
+    },
+    {
+      "id": "clicker-heroes",
+      "t": "Clicker Heroes",
+      "g": "Idle",
+      "dev": "Playsaurus",
+      "pub": "Playsaurus",
+      "rel": "Đã phát hành",
+      "date": "13 Thg05, 2015",
+      "days": 0,
+      "exact": false,
+      "tba": false,
+      "ea": false,
+      "aaa": false,
+      "price": 0,
+      "disc": 0,
+      "old": null,
+      "free": true,
+      "critic": null,
+      "meta": null,
+      "steam": 90,
+      "rc": 62150,
+      "hltb": 100,
+      "desc": "Bấm để đánh quái, thuê anh hùng tự động và leo màn không giới hạn. Một trong những clicker đình đám nhất, miễn phí.",
+      "sum": "Hệ thống anh hùng, hiện vật và ascension tạo chiều sâu tính toán. Nhịp chơi dài hơi, hợp theo dõi mỗi ngày. Core loop: đánh quái qua màn, nhận vàng thuê và nâng cấp anh hùng, ascend để lấy linh hồn mạnh hơn.",
+      "pros": [
+        "Miễn phí, nhiều người chơi",
+        "Chiều sâu chiến lược"
+      ],
+      "cons": [
+        "Giao diện cũ",
+        "Dễ nản ở giai đoạn giữa"
+      ],
+      "tags": [
+        "Idle",
+        "Clicker",
+        "Incremental",
+        "RPG",
+        "Miễn phí"
+      ],
+      "viet": {
+        "has": true,
+        "score": 25,
+        "engine": "HTML5/JavaScript (ước đoán)",
+        "note": "Trang Steam ghi có tiếng Việt nên nhu cầu Việt hoá thấp; nên kiểm tra lại chất lượng bản dịch."
+      },
+      "news": []
+    },
+    {
+      "id": "antimatter-dimensions",
+      "t": "Antimatter Dimensions",
+      "g": "Idle",
+      "dev": "Hevipelle, Omsi, Razenpok, Spectralflame, WaitingIdly",
+      "pub": "Hevipelle, Makopaz",
+      "rel": "Đã phát hành",
+      "date": "17 Thg12, 2022",
+      "days": 0,
+      "exact": false,
+      "tba": false,
+      "ea": false,
+      "aaa": false,
+      "price": 0,
+      "disc": 0,
+      "old": null,
+      "free": true,
+      "critic": null,
+      "meta": null,
+      "steam": 92,
+      "rc": 4639,
+      "hltb": 150,
+      "desc": "Incremental thuần số học: sinh phản vật chất rồi tạo các chiều không gian ngày càng cao. Nhiều lớp prestige, miễn phí.",
+      "sum": "Nặng tính toán, hợp người thích tối ưu và đọc công thức. Nội dung cực dài với nhiều tầng prestige liên tiếp. Core loop: mua các Dimension để tăng antimatter, reset bằng Dimension Boost và Infinity, rồi mở khóa cơ chế mới ở mỗi tầng.",
+      "pros": [
+        "Chiều sâu rất lớn",
+        "Miễn phí, không ép nạp"
+      ],
+      "cons": [
+        "Khó với người mới",
+        "Chỉ có tiếng Anh"
+      ],
+      "tags": [
+        "Idle",
+        "Incremental",
+        "Toán học",
+        "Prestige",
+        "Miễn phí"
+      ],
+      "viet": {
+        "has": false,
+        "score": 60,
+        "engine": "JavaScript/Vue",
+        "note": "Nhiều thuật ngữ khó dịch nhưng mã nguồn mở, cộng đồng yêu thích; Steam chỉ có tiếng Anh."
+      },
+      "news": []
+    },
+    {
+      "id": "ff-resonance",
+      "t": "Final Fantasy Resonance",
+      "g": "RPG",
+      "dev": "Square Enix",
+      "pub": "Square Enix",
+      "rel": "22 Thg10, 2026",
+      "date": "22 Thg10, 2026",
+      "days": 1,
+      "exact": true,
+      "tba": false,
+      "ea": false,
+      "aaa": true,
+      "price": 0,
+      "disc": 0,
+      "old": null,
+      "free": false,
+      "critic": null,
+      "meta": null,
+      "steam": null,
+      "rc": null,
+      "hltb": 40,
+      "desc": "Tựa Final Fantasy mới theo phong cách đồ họa HD-2D, ra mắt đồng thời trên PC và console.",
+      "sum": "Phần mới của dòng Final Fantasy dùng lối đồ họa HD-2D hoài cổ nhưng hiện đại, tập trung vào cốt truyện kịch tính và dàn nhân vật. Bản Steam đã được xác nhận tương thích Steam Deck. Core loop: khám phá thế giới, đánh theo lượt với đội hình, lên cấp và nâng cấp kỹ năng rồi tiến tiếp cốt truyện.",
+      "pros": [
+        "Phong cách HD-2D đẹp, giàu cảm xúc",
+        "Thương hiệu Final Fantasy uy tín"
+      ],
+      "cons": [
+        "Nhịp truyện có thể chậm với người thích hành động"
+      ],
+      "tags": [
+        "Nhập vai",
+        "JRPG",
+        "Theo lượt",
+        "HD-2D",
+        "Cốt truyện"
+      ],
+      "viet": {
+        "has": false,
+        "score": 80,
+        "engine": "chưa rõ",
+        "note": "JRPG nhiều thoại và cốt truyện, rất đáng Việt hoá nếu mod được file văn bản."
+      },
+      "news": []
+    },
+    {
+      "id": "dqm-withered",
+      "t": "Dragon Quest Monsters: The Withered World",
+      "g": "RPG",
+      "dev": "Square Enix",
+      "pub": "Square Enix",
+      "rel": "3 Thg12, 2026",
+      "date": "3 Thg12, 2026",
+      "days": 43,
+      "exact": true,
+      "tba": false,
+      "ea": false,
+      "aaa": true,
+      "price": 0,
+      "disc": 0,
+      "old": null,
+      "free": false,
+      "critic": null,
+      "meta": null,
+      "steam": null,
+      "rc": null,
+      "hltb": 40,
+      "desc": "Phần mới của Dragon Quest Monsters với hơn 500 quái vật để thu thập, có bản demo trên Steam.",
+      "sum": "Hai nhân vật chính Bianca và Nera đi hồi sinh vùng đất Witherwood bằng cách chiêu mộ và phối giống quái vật. Core loop: bắt quái, phối giống ra loài mạnh hơn, xây đội hình rồi đánh theo lượt để mở khoá khu vực mới.",
+      "pros": [
+        "Kho quái vật khổng lồ để sưu tầm",
+        "Có demo chơi thử trên Steam"
+      ],
+      "cons": [
+        "Cơ chế phối giống dễ gây ngợp"
+      ],
+      "tags": [
+        "Nhập vai",
+        "JRPG",
+        "Theo lượt",
+        "Sưu tầm quái vật",
+        "Dễ thương"
+      ],
+      "viet": {
+        "has": false,
+        "score": 70,
+        "engine": "chưa rõ",
+        "note": "Lượng thoại vừa phải, menu và mô tả kỹ năng nhiều chữ, khá đáng Việt hoá."
+      },
+      "news": []
+    },
+    {
+      "id": "poe2-1-0",
+      "t": "Path of Exile 2 (bản 1.0)",
+      "g": "RPG",
+      "dev": "Grinding Gear Games",
+      "pub": "Grinding Gear Games",
+      "rel": "11 Thg12, 2026",
+      "date": "11 Thg12, 2026",
+      "days": 51,
+      "exact": true,
+      "tba": false,
+      "ea": false,
+      "aaa": true,
+      "price": 0,
+      "disc": 0,
+      "old": null,
+      "free": false,
+      "critic": null,
+      "meta": null,
+      "steam": null,
+      "rc": null,
+      "hltb": 100,
+      "desc": "ARPG hardcore tiếp nối Path of Exile, chính thức thoát Early Access với bản 1.0 và có thêm lớp nhân vật Duelist.",
+      "sum": "Bản phát hành đầy đủ của Path of Exile 2 trên PC và console, bổ sung lớp Duelist cùng nội dung hoàn chỉnh. Core loop: đánh quái, nhặt trang bị, tối ưu cây kỹ năng và build rồi thử sức boss cùng endgame.",
+      "pros": [
+        "Hệ thống build cực sâu",
+        "Chơi miễn phí, chiến đấu nặng tay"
+      ],
+      "cons": [
+        "Độ phức tạp cao, dễ nản với người mới"
+      ],
+      "tags": [
+        "Nhập vai hành động",
+        "ARPG",
+        "Hack and slash",
+        "Miễn phí",
+        "Co-op"
+      ],
+      "viet": {
+        "has": false,
+        "score": 60,
+        "engine": "chưa rõ",
+        "note": "Nhiều chữ ở vật phẩm và mod nên khó, nhưng nhu cầu người chơi Việt lớn."
+      },
+      "news": []
+    },
+    {
+      "id": "romancing-saga-3",
+      "t": "Romancing SaGa 3: Destinies United",
+      "g": "RPG",
+      "dev": "Square Enix",
+      "pub": "Square Enix",
+      "rel": "16 Thg02, 2027",
+      "date": "16 Thg02, 2027",
+      "days": 118,
+      "exact": true,
+      "tba": false,
+      "ea": false,
+      "aaa": true,
+      "price": 0,
+      "disc": 0,
+      "old": null,
+      "free": false,
+      "critic": null,
+      "meta": null,
+      "steam": null,
+      "rc": null,
+      "hltb": 45,
+      "desc": "Bản làm lại 3D toàn diện của Romancing SaGa 3 kinh điển, do đội ngũ làm Romancing SaGa 2 Remake thực hiện.",
+      "sum": "Remake đồ hoạ 3D của JRPG kinh điển với hệ thống tự do chọn nhân vật và hướng đi. Core loop: chọn nhân vật, khám phá bản đồ, đánh theo lượt, lĩnh hội kỹ năng mới rồi mở rộng cốt truyện nhiều nhánh.",
+      "pros": [
+        "Tự do hành trình, giá trị chơi lại cao",
+        "Hệ thống chiến đấu chiều sâu"
+      ],
+      "cons": [
+        "Hệ thống SaGa khó hiểu với người mới"
+      ],
+      "tags": [
+        "Nhập vai",
+        "JRPG",
+        "Theo lượt",
+        "Remake",
+        "Tự do"
+      ],
+      "viet": {
+        "has": false,
+        "score": 65,
+        "engine": "chưa rõ",
+        "note": "Thoại và mô tả kỹ năng khá nhiều, đáng Việt hoá nếu có người dịch."
+      },
+      "news": []
+    },
+    {
+      "id": "atelier-karia",
+      "t": "Atelier Karia: The Night Kingdom & the Guide of Memories",
+      "g": "RPG",
+      "dev": "Gust",
+      "pub": "Koei Tecmo",
+      "rel": "25 Thg02, 2027",
+      "date": "25 Thg02, 2027",
+      "days": 127,
+      "exact": true,
+      "tba": false,
+      "ea": false,
+      "aaa": false,
+      "price": 0,
+      "disc": 0,
+      "old": null,
+      "free": false,
+      "critic": null,
+      "meta": null,
+      "steam": null,
+      "rc": null,
+      "hltb": 35,
+      "desc": "Phần mới của dòng Atelier với phong cách luyện kim và nhân vật mới, có mặt trên PC.",
+      "sum": "Tựa Atelier mới kết hợp luyện kim, khám phá và chiến đấu với dàn nhân vật mới. Core loop: thu thập nguyên liệu, chế tạo vật phẩm, chiến đấu theo hệ thống của game rồi hoàn thành nhiệm vụ để mở rộng vùng đất.",
+      "pros": [
+        "Nghệ thuật dễ thương, nhịp chơi thư giãn",
+        "Hệ thống chế tạo gây nghiện"
+      ],
+      "cons": [
+        "Nhịp độ chậm"
+      ],
+      "tags": [
+        "Nhập vai",
+        "JRPG",
+        "Chế tạo",
+        "Anime",
+        "Thư giãn"
+      ],
+      "viet": {
+        "has": false,
+        "score": 65,
+        "engine": "chưa rõ",
+        "note": "Nhiều thoại nhẹ nhàng và vật phẩm chế tạo, vừa phải để Việt hoá."
+      },
+      "news": []
+    },
+    {
+      "id": "exodus",
+      "t": "Exodus",
+      "g": "RPG",
+      "dev": "Archetype Entertainment",
+      "pub": "Archetype Entertainment",
+      "rel": "7 Thg04, 2027",
+      "date": "7 Thg04, 2027",
+      "days": 168,
+      "exact": true,
+      "tba": false,
+      "ea": false,
+      "aaa": true,
+      "price": 0,
+      "disc": 0,
+      "old": null,
+      "free": false,
+      "critic": null,
+      "meta": null,
+      "steam": null,
+      "rc": null,
+      "hltb": 35,
+      "desc": "RPG hành động khoa học viễn tưởng góc nhìn thứ ba, phong cách Mass Effect, ra mắt trên Steam.",
+      "sum": "Câu chuyện du hành không gian với phi hành đoàn đa dạng, trong đó có một thành viên tám tay. Core loop: khám phá hành tinh, trò chuyện và lựa chọn, giao tranh hành động rồi phát triển đội ngũ.",
+      "pros": [
+        "Cốt truyện và lựa chọn kiểu Mass Effect",
+        "Đội ngũ nhân vật độc đáo"
+      ],
+      "cons": [
+        "Studio còn mới, chưa có tiền lệ"
+      ],
+      "tags": [
+        "Nhập vai",
+        "Khoa học viễn tưởng",
+        "Hành động",
+        "Cốt truyện",
+        "Chọn lựa"
+      ],
+      "viet": {
+        "has": false,
+        "score": 85,
+        "engine": "chưa rõ",
+        "note": "Lượng thoại và lựa chọn rất lớn, rất đáng Việt hoá."
+      },
+      "news": []
+    },
+    {
+      "id": "lotf-2",
+      "t": "Lords of the Fallen II",
+      "g": "RPG",
+      "dev": "Hexworks",
+      "pub": "CI Games",
+      "rel": "Q1 2027",
+      "date": "Q1 2027",
+      "days": 117,
+      "exact": false,
+      "tba": false,
+      "ea": false,
+      "aaa": true,
+      "price": 0,
+      "disc": 0,
+      "old": null,
+      "free": false,
+      "critic": null,
+      "meta": null,
+      "steam": null,
+      "rc": null,
+      "hltb": 35,
+      "desc": "Phần tiếp theo của game nhập vai hành động kiểu Soulslike, bị lùi sang Q1 2027.",
+      "sum": "Tựa Soulslike tối tăm tiếp nối bản 2023, ra mắt trên Steam cùng nhiều nền tảng. Core loop: khám phá, chiến đấu nặng nề, hồi sinh sau khi chết, mở lối tắt rồi hạ boss để đi tiếp.",
+      "pros": [
+        "Thế giới tối tăm, chiến đấu nặng tay",
+        "Thích hợp người mê Soulslike"
+      ],
+      "cons": [
+        "Từng bị lùi ngày ra mắt"
+      ],
+      "tags": [
+        "Nhập vai hành động",
+        "Soulslike",
+        "Tối tăm",
+        "Khó",
+        "Boss"
+      ],
+      "viet": {
+        "has": false,
+        "score": 45,
+        "engine": "chưa rõ",
+        "note": "Ít thoại hơn RPG truyện, giá trị Việt hoá vừa phải."
+      },
+      "news": []
+    },
+    {
+      "id": "kingdom-hearts-4",
+      "t": "Kingdom Hearts 4",
+      "g": "RPG",
+      "dev": "Square Enix",
+      "pub": "Square Enix",
+      "rel": "2027",
+      "date": "2027",
+      "days": 345,
+      "exact": false,
+      "tba": false,
+      "ea": false,
+      "aaa": true,
+      "price": 0,
+      "disc": 0,
+      "old": null,
+      "free": false,
+      "critic": null,
+      "meta": null,
+      "steam": null,
+      "rc": null,
+      "hltb": 50,
+      "desc": "Phần chính tiếp theo của Kingdom Hearts, đã được công bố ra mắt trên PC trong năm 2027.",
+      "sum": "Chương mới của saga Kingdom Hearts với thế giới hiện đại như Tokyo. Core loop: khám phá thế giới Disney và Square Enix, chiến đấu hành động theo thời gian thực, nâng kỹ năng rồi đẩy cốt truyện.",
+      "pros": [
+        "Thương hiệu được trông đợi từ lâu",
+        "Chiến đấu hành động mượt"
+      ],
+      "cons": [
+        "Chưa rõ nền tảng Steam cụ thể",
+        "Cốt truyện phức tạp"
+      ],
+      "tags": [
+        "Nhập vai hành động",
+        "Disney",
+        "Cốt truyện",
+        "Hành động",
+        "Anime"
+      ],
+      "viet": {
+        "has": false,
+        "score": 75,
+        "engine": "chưa rõ",
+        "note": "Cốt truyện đồ sộ nhiều thoại, rất đáng Việt hoá nhưng còn xa ngày ra."
+      },
+      "news": []
+    },
+    {
+      "id": "tropico7",
+      "t": "Tropico 7",
+      "g": "Mô phỏng",
+      "dev": "Gaming Minds Studios",
+      "pub": "Kalypso Media",
+      "rel": "28 Thg01, 2027",
+      "date": "28 Thg01, 2027",
+      "days": 99,
+      "exact": true,
+      "tba": false,
+      "ea": false,
+      "aaa": false,
+      "price": 0,
+      "disc": 0,
+      "old": null,
+      "free": false,
+      "critic": null,
+      "meta": null,
+      "steam": null,
+      "rc": null,
+      "hltb": 40,
+      "desc": "Phần mới của series xây dựng đảo quốc hài hước, bạn đóng vai El Presidente điều hành cả một quốc gia chuối.",
+      "sum": "Bạn xây dựng và cai trị một hòn đảo qua năm chiến dịch, có thêm tính năng tạo hình địa hình, hội đồng các phe phái chính trị, bầu cử, diễn văn và sắc lệnh. Hệ thống quân sự được làm lại để điều khiển trực tiếp hơn, kèm hơn 20 bản đồ sandbox và trình tạo bản đồ ngẫu nhiên. Core loop: xây dựng kinh tế và công trình, cân bằng các phe phái và người dân, ban hành sắc lệnh, giữ quyền lực rồi mở rộng đảo.",
+      "pros": [
+        "Series xây dựng thành phố có phong cách châm biếm đặc trưng",
+        "Nhiều nội dung ngay từ đầu: chiến dịch, sandbox, tạo bản đồ ngẫu nhiên"
+      ],
+      "cons": [
+        "Công thức khá quen thuộc với fan cũ",
+        "Phát hành đa nền tảng nên có thể bị so sánh về tối ưu PC"
+      ],
+      "tags": [
+        "Mô phỏng",
+        "Xây dựng thành phố",
+        "Chiến lược",
+        "Hài hước",
+        "Chính trị"
+      ],
+      "viet": {
+        "has": false,
+        "score": 55,
+        "engine": "chưa rõ",
+        "note": "Nhiều chữ (sắc lệnh, sự kiện, thoại hài hước) nên đáng Việt hoá nếu muốn chơi trọn vẹn, nhưng chưa xác nhận hỗ trợ tiếng Việt."
+      },
+      "news": []
+    },
+    {
+      "id": "frostpunk1886",
+      "t": "Frostpunk 1886",
+      "g": "Mô phỏng",
+      "dev": "11 bit studios",
+      "pub": "11 bit studios",
+      "rel": "2027",
+      "date": "2027",
+      "days": 253,
+      "exact": false,
+      "tba": false,
+      "ea": false,
+      "aaa": true,
+      "price": 0,
+      "disc": 0,
+      "old": null,
+      "free": false,
+      "critic": null,
+      "meta": null,
+      "steam": null,
+      "rc": null,
+      "hltb": 20,
+      "desc": "Bản làm lại của Frostpunk gốc trên Unreal Engine 5, nơi bạn dẫn dắt thành phố cuối cùng của nhân loại sống sót qua kỷ băng hà.",
+      "sum": "Tựa game xây dựng thành phố sinh tồn được dựng lại bằng Unreal Engine 5, bổ sung nội dung, cơ chế và luật mới cùng nhánh Purpose, đồng thời hỗ trợ mod. Bạn phải đưa ra các quyết định đạo đức khó khăn để giữ cho cộng đồng sống sót. Core loop: thu thập tài nguyên, xây dựng và sưởi ấm thành phố, ban hành luật, xử lý khủng hoảng và các lựa chọn đạo đức để qua từng đợt lạnh.",
+      "pros": [
+        "Đồ họa Unreal Engine 5 và có hỗ trợ mod",
+        "Gameplay sinh tồn đạo đức rất cuốn hút"
+      ],
+      "cons": [
+        "Là bản làm lại nên có thể trùng phần lớn nội dung bản gốc",
+        "Chỉ mới có khung 2027, chưa có ngày chính thức"
+      ],
+      "tags": [
+        "Mô phỏng",
+        "Xây dựng thành phố",
+        "Sinh tồn",
+        "Chiến lược",
+        "Bầu không khí"
+      ],
+      "viet": {
+        "has": false,
+        "score": 65,
+        "engine": "Unreal Engine 5",
+        "note": "Cốt truyện và luật pháp nhiều chữ, lựa chọn đạo đức cần hiểu rõ nên rất đáng Việt hoá; chưa xác nhận hỗ trợ tiếng Việt."
+      },
+      "news": []
+    },
+    {
+      "id": "arma4",
+      "t": "Arma 4",
+      "g": "Mô phỏng",
+      "dev": "Bohemia Interactive",
+      "pub": "Bohemia Interactive",
+      "rel": "2027",
+      "date": "2027",
+      "days": 253,
+      "exact": false,
+      "tba": false,
+      "ea": false,
+      "aaa": true,
+      "price": 0,
+      "disc": 0,
+      "old": null,
+      "free": false,
+      "critic": null,
+      "meta": null,
+      "steam": null,
+      "rc": null,
+      "hltb": 60,
+      "desc": "Phần tiếp theo của series mô phỏng quân sự hạng nặng Arma, do Bohemia Interactive phát triển cho PC.",
+      "sum": "Bohemia mới chỉ công bố mốc 2027, bối cảnh và tính năng chưa được tiết lộ. Series nổi tiếng với chiến trường quy mô lớn, mô phỏng chiến thuật chân thực và cộng đồng mod mạnh. Core loop: lên kế hoạch, phối hợp tiểu đội và phương tiện, hoàn thành nhiệm vụ trên chiến trường rộng lớn.",
+      "pros": [
+        "Thương hiệu mô phỏng quân sự chiến thuật có tiếng",
+        "Cộng đồng mod và multiplayer quy mô lớn"
+      ],
+      "cons": [
+        "Chưa biết bối cảnh và tính năng",
+        "Độ khó cao, đường cong học dốc"
+      ],
+      "tags": [
+        "Mô phỏng",
+        "Quân sự",
+        "Chiến thuật",
+        "Thế giới mở",
+        "Multiplayer"
+      ],
+      "viet": {
+        "has": false,
+        "score": 35,
+        "engine": "Enfusion (dự kiến, chưa xác nhận)",
+        "note": "Chủ yếu chơi nhiều người, ít chữ cốt truyện nên ưu tiên Việt hoá thấp; chưa có thông tin về ngôn ngữ."
+      },
+      "news": []
+    },
+    {
+      "id": "everbloom",
+      "t": "Everbloom",
+      "g": "Mô phỏng",
+      "dev": "Torbie Games",
+      "pub": "Fictions",
+      "rel": "Mùa xuân 2027",
+      "date": "Mùa xuân 2027",
+      "days": 176,
+      "exact": false,
+      "tba": false,
+      "ea": false,
+      "aaa": false,
+      "price": 0,
+      "disc": 0,
+      "old": null,
+      "free": false,
+      "critic": null,
+      "meta": null,
+      "steam": null,
+      "rc": null,
+      "hltb": 30,
+      "desc": "Game mô phỏng đời sống và nông trại ấm cúng, thế giới dễ thương và nhiều tương tác xã hội, trên PC (Steam, Epic) và Switch 2.",
+      "sum": "Trò chơi mô phỏng đời sống thư giãn do các cựu thành viên đội ngũ Astroneer thực hiện, tập trung vào khám phá, kết giao với cư dân và làm nông trong một thế giới kỳ ảo. Core loop: trồng trọt, khám phá, giao lưu với cư dân, mở rộng nông trại và các mối quan hệ.",
+      "pros": [
+        "Phong cách cozy, dễ tiếp cận",
+        "Có trailer mới và lộ trình ra mắt rõ ràng"
+      ],
+      "cons": [
+        "Chi tiết cơ chế còn ít",
+        "Thể loại cozy farming đang rất đông đối thủ"
+      ],
+      "tags": [
+        "Mô phỏng",
+        "Nông trại",
+        "Cozy",
+        "Mô phỏng đời sống",
+        "Thư giãn"
+      ],
+      "viet": {
+        "has": false,
+        "score": 60,
+        "engine": "chưa rõ",
+        "note": "Game xã hội nhiều thoại NPC nên rất hợp Việt hoá; chưa xác nhận tiếng Việt."
+      },
+      "news": []
+    },
+    {
+      "id": "saltandsoil",
+      "t": "Salt and Soil: A Frontier Family Sim",
+      "g": "Mô phỏng",
+      "dev": "DelosX",
+      "pub": "chưa rõ",
+      "rel": "9 Thg11, 2026",
+      "date": "9 Thg11, 2026",
+      "days": 19,
+      "exact": true,
+      "tba": false,
+      "ea": false,
+      "aaa": false,
+      "price": 0,
+      "disc": 0,
+      "old": null,
+      "free": false,
+      "critic": null,
+      "meta": null,
+      "steam": null,
+      "rc": null,
+      "hltb": 15,
+      "desc": "Colony sim roguelite theo lượt về một gia đình trên vùng biên giới nước Mỹ từ năm 1609 đến 1900, ra mắt Early Access trên Steam.",
+      "sum": "Mỗi lượt là một năm: bạn trồng trọt, chăn nuôi, dựng xưởng, giao thương và đối phó các thế lực xung quanh. Cuối mỗi năm có Hội đồng gia đình biến sự kiện thành các tình huống khó xử, khi gia chủ mất thì thế hệ sau thừa kế cả nợ nần lẫn thanh danh. Bản Early Access cần kết nối internet vì dùng AI tạo sinh, dự kiến bản 1.0 vào nửa đầu 2027. Core loop: quản lý tài nguyên theo năm, xử lý Hội đồng gia đình, truyền lại cho thế hệ sau.",
+      "pros": [
+        "Ý tưởng roguelite colony sim độc đáo theo nhiều thế hệ",
+        "Đồ họa tối giản, nhịp chơi theo lượt dễ tiếp cận"
+      ],
+      "cons": [
+        "Early Access, bắt buộc online do dùng AI tạo sinh",
+        "Do một người làm nên nội dung có thể hạn chế"
+      ],
+      "tags": [
+        "Mô phỏng",
+        "Colony sim",
+        "Roguelite",
+        "Theo lượt",
+        "Early Access"
+      ],
+      "viet": {
+        "has": false,
+        "score": 40,
+        "engine": "chưa rõ",
+        "note": "Steam chưa hỗ trợ tiếng Việt (10 ngôn ngữ, không có Việt), nhiều chữ sự kiện nhưng nội dung do AI sinh nên khó Việt hoá."
+      },
+      "news": []
+    },
+    {
+      "id": "dow4",
+      "t": "Warhammer 40,000: Dawn of War IV",
+      "g": "Chiến thuật",
+      "dev": "KING Art",
+      "pub": "Deep Silver",
+      "rel": "3 Thg12, 2026",
+      "date": "3 Thg12, 2026",
+      "days": 43,
+      "exact": true,
+      "tba": false,
+      "ea": false,
+      "aaa": true,
+      "price": 0,
+      "disc": 0,
+      "old": null,
+      "free": false,
+      "critic": null,
+      "meta": null,
+      "steam": null,
+      "rc": null,
+      "hltb": 20,
+      "desc": "Phần RTS mới của dòng Dawn of War, quay lại chiến trường grimdark của Warhammer 40K với xây căn cứ và chỉ huy quân đội thời gian thực. Game vừa bị lùi từ tháng 9 sang 3/12/2026.",
+      "sum": "Dawn of War IV là game chiến thuật thời gian thực lấy bối cảnh vũ trụ Warhammer 40,000, nơi người chơi dẫn dắt các phe như Space Marines hay Orks trong chiến dịch và đối kháng. Nhà phát hành cho biết sẽ có thêm nội dung mở rộng sau khi ra mắt. Core loop: thu thập tài nguyên, mở rộng căn cứ, tuyển đội hình rồi chỉ huy trận đánh để chiếm điểm và tiêu diệt đối thủ.",
+      "pros": [
+        "Thương hiệu Warhammer 40K rất mạnh",
+        "RTS cổ điển hiếm gặp ở tầm AAA"
+      ],
+      "cons": [
+        "Đã bị lùi ngày một lần",
+        "Chưa rõ hỗ trợ tiếng Việt"
+      ],
+      "tags": [
+        "Chiến thuật",
+        "RTS",
+        "Warhammer",
+        "Khoa học viễn tưởng",
+        "Nhiều người chơi"
+      ],
+      "viet": {
+        "has": false,
+        "score": 70,
+        "engine": "chưa rõ",
+        "note": "Chiến dịch có thoại và lore dày nên đáng Việt hoá nếu mod được file text, thuật ngữ Warhammer cần thống nhất."
+      },
+      "news": []
+    },
+    {
+      "id": "twh40k",
+      "t": "Total War: Warhammer 40,000",
+      "g": "Chiến thuật",
+      "dev": "Creative Assembly",
+      "pub": "SEGA",
+      "rel": "2027",
+      "date": "2027",
+      "days": 253,
+      "exact": false,
+      "tba": false,
+      "ea": false,
+      "aaa": true,
+      "price": 0,
+      "disc": 0,
+      "old": null,
+      "free": false,
+      "critic": null,
+      "meta": null,
+      "steam": null,
+      "rc": null,
+      "hltb": 80,
+      "desc": "Total War đầu tiên đặt trong vũ trụ Warhammer 40K, kết hợp quản lý đế chế theo lượt và chiến đấu thời gian thực. Chưa có ngày chính thức, một số trang liệt kê năm 2027.",
+      "sum": "Creative Assembly mang công thức Total War lên quy mô liên sao với nhiều phe 40K. Game được công bố cho PC, PS5 và Xbox Series; closed beta dự kiến trong năm 2026. Core loop: quản lý bản đồ chiến dịch theo lượt, nghiên cứu và chiêu mộ quân, rồi vào trận thời gian thực để quyết định thắng thua.",
+      "pros": [
+        "Công thức Total War đã được kiểm chứng",
+        "Thương hiệu 40K cực lớn"
+      ],
+      "cons": [
+        "Chưa có ngày phát hành chính thức",
+        "Thường có DLC đắt"
+      ],
+      "tags": [
+        "Chiến thuật",
+        "Total War",
+        "Warhammer",
+        "Theo lượt",
+        "Thời gian thực"
+      ],
+      "viet": {
+        "has": false,
+        "score": 55,
+        "engine": "chưa rõ",
+        "note": "Lượng chữ lớn với lore nhưng game nặng và ra sau; nên theo dõi trước khi quyết định Việt hoá."
+      },
+      "news": []
+    },
+    {
+      "id": "homm3-remake",
+      "t": "Heroes of Might and Magic III Remake",
+      "g": "Chiến thuật",
+      "dev": "Ubisoft Chengdu & Ubisoft Shanghai",
+      "pub": "Ubisoft",
+      "rel": "2027",
+      "date": "2027",
+      "days": 253,
+      "exact": false,
+      "tba": false,
+      "ea": false,
+      "aaa": true,
+      "price": 0,
+      "disc": 0,
+      "old": null,
+      "free": false,
+      "critic": null,
+      "meta": null,
+      "steam": null,
+      "rc": null,
+      "hltb": 60,
+      "desc": "Bản làm lại 3D của tựa chiến thuật theo lượt kinh điển Heroes of Might and Magic III. Ubisoft mới nói sẽ ra mắt trong 2027, chưa có ngày cụ thể.",
+      "sum": "Remake giữ cốt lõi khám phá bản đồ, thu thập tài nguyên và chỉ huy anh hùng của HoMM3 trong đồ hoạ 3D. Phiên bản PC dự kiến có trên Steam, Epic và Ubisoft Connect. Core loop: đưa anh hùng đi khám phá bản đồ, chiếm mỏ và xây thành, tuyển quân rồi đánh trận theo lượt.",
+      "pros": [
+        "Đánh vào hoài niệm của game huyền thoại",
+        "Ubisoft đầu tư làm 3D"
+      ],
+      "cons": [
+        "Chưa có ngày và giá",
+        "Rủi ro lệch khỏi bản gốc"
+      ],
+      "tags": [
+        "Chiến thuật",
+        "Theo lượt",
+        "Fantasy",
+        "Remake",
+        "4X"
+      ],
+      "viet": {
+        "has": false,
+        "score": 65,
+        "engine": "chưa rõ",
+        "note": "Chữ vừa phải (nhiệm vụ, mô tả quái và phép) và nhiều người Việt yêu HoMM3 nên khá đáng Việt hoá."
+      },
+      "news": []
+    },
+    {
+      "id": "r6-tactics",
+      "t": "Tom Clancy's Rainbow Six Tactics",
+      "g": "Chiến thuật",
+      "dev": "Ubisoft",
+      "pub": "Ubisoft",
+      "rel": "2027",
+      "date": "2027",
+      "days": 253,
+      "exact": false,
+      "tba": false,
+      "ea": false,
+      "aaa": true,
+      "price": 0,
+      "disc": 0,
+      "old": null,
+      "free": false,
+      "critic": null,
+      "meta": null,
+      "steam": null,
+      "rc": null,
+      "hltb": 20,
+      "desc": "Rainbow Six đổi sang chiến thuật theo lượt chơi một mình, công bố tại Gamescom 2026. Có trên PC (Steam, Epic, Ubisoft Store) và console, dự kiến 2027.",
+      "sum": "Tựa này đưa đội đặc nhiệm Rainbow Six vào lối chơi chiến thuật theo lượt với kịch bản đơn. Nguồn tin chưa nêu rõ studio phát triển nên mục dev ghi Ubisoft. Core loop: lên kế hoạch đột kích, di chuyển và hành động từng lượt cho đội, phá cửa, hạ mục tiêu rồi hoàn thành nhiệm vụ.",
+      "pros": [
+        "Thương hiệu quen thuộc, hướng đi mới lạ",
+        "Có trên Steam"
+      ],
+      "cons": [
+        "Chưa có ngày chính thức",
+        "Chưa rõ quy mô nội dung"
+      ],
+      "tags": [
+        "Chiến thuật",
+        "Theo lượt",
+        "Chiến thuật đội",
+        "Một người chơi"
+      ],
+      "viet": {
+        "has": false,
+        "score": 50,
+        "engine": "chưa rõ",
+        "note": "Chữ chủ yếu là thoại và giao diện nhiệm vụ, quy mô vừa; cần chờ bản chính thức để đánh giá."
+      },
+      "news": []
+    },
+    {
+      "id": "got-war-westeros",
+      "t": "Game of Thrones: War for Westeros",
+      "g": "Chiến thuật",
+      "dev": "PlaySide Studios",
+      "pub": "PlaySide Studios",
+      "rel": "Đầu 2027",
+      "date": "Đầu 2027",
+      "days": 117,
+      "exact": false,
+      "tba": false,
+      "ea": false,
+      "aaa": false,
+      "price": 0,
+      "disc": 0,
+      "old": null,
+      "free": false,
+      "critic": null,
+      "meta": null,
+      "steam": null,
+      "rc": null,
+      "hltb": 40,
+      "desc": "Game chiến lược thời gian thực lấy bối cảnh Game of Thrones, vừa bị lùi sang đầu 2027. Có gameplay trailer đầu tiên tại Gamescom 2026.",
+      "sum": "Người chơi lãnh đạo một gia tộc tranh giành quyền kiểm soát Westeros bằng quân sự và chính trị. Nhà phát hành chưa được nguồn xác nhận rõ nên ghi PlaySide theo dev, và chưa xác nhận trang Steam. Core loop: chiếm lãnh thổ, phát triển kinh tế và quân đội, liên minh rồi giao chiến để vươn tới ngai sắt.",
+      "pros": [
+        "Bản quyền Game of Thrones hấp dẫn",
+        "Đã có gameplay trailer"
+      ],
+      "cons": [
+        "Bị lùi lịch",
+        "Studio chưa có tựa chiến lược tầm lớn"
+      ],
+      "tags": [
+        "Chiến thuật",
+        "RTS",
+        "Game of Thrones",
+        "Fantasy"
+      ],
+      "viet": {
+        "has": false,
+        "score": 60,
+        "engine": "chưa rõ",
+        "note": "Lore và hội thoại phong phú nên hợp Việt hoá, nhưng cần chờ bản chính thức."
+      },
+      "news": []
+    }
+  ]
 }
